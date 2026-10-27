@@ -27,12 +27,13 @@ ileague.id ──► GitHub Actions (setiap hari, 2x) ──► data/*.csv (di-c
 
 | File | Grain | Kegunaan di dashboard |
 |---|---|---|
+| `clubs.csv` | 1 baris / klub | Logo klub (URL 50 px & 150 px dari ileague.id), situs resmi, posisi klasemen |
 | `matches.csv` | 1 baris / laga | Jadwal, hasil, stadion, kota, penonton, wasit |
 | `standings_official.csv` | 1 baris / tim | Klasemen resmi saat ini |
 | `standings_by_week.csv` | tim × pekan | Grafik perjalanan posisi (bump chart) |
 | `team_match_results.csv` | tim × laga | Form, home/away, clean sheet tim |
 | `team_match_stats.csv` | tim × laga | Penguasaan bola, tembakan, umpan, kartu |
-| `player_season_stats.csv` | 1 baris / pemain | Top skor, assist, G+A, menit, kartu, clean sheet kiper |
+| `player_season_stats.csv` | 1 baris / pemain | Top skor, assist, G+A, menit, kartu, clean sheet kiper, `profile_url` ke profil resmi pemain |
 | `goals.csv` | 1 baris / gol | Distribusi menit gol, penalti, gol bunuh diri |
 | `cards.csv` | 1 baris / kartu | Disiplin per tim/pemain |
 | `appearances.csv` | pemain × laga | Menit bermain, starter/cadangan, posisi |

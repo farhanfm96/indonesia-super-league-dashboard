@@ -2,8 +2,9 @@ name: Update Super League data
 
 on:
   schedule:
-    # Waktu dalam UTC. 16:47 UTC = 23:47 WIB (setelah laga malam selesai),
-    # 23:47 UTC = 06:47 WIB (menangkap koreksi data yang telat diunggah operator).
+    # Waktu dalam UTC. 16:00 UTC = 23:00 WIB, setiap hari.
+    # Koreksi data yang telat diunggah operator tertangkap di run hari berikutnya
+    # (laga 4 hari terakhir selalu di-scrape ulang).
     - cron: "0 16 * * *"
   workflow_dispatch:
     inputs:

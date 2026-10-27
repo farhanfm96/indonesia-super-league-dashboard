@@ -140,8 +140,31 @@ def scrape_leaderboards() -> pd.DataFrame:
 # Tahap 4: susun tabel
 # ---------------------------------------------------------------------------
 
+def scrape_clubs() -> pd.DataFrame:
+    return pd.DataFrame(parse.parse_clubs(http.get(f"/home/index/{http.COMPETITION}")))
+
+
+def build_clubs(clubs: pd.DataFrame | None, leaders: pd.DataFrame | None,
+                official_table: pd.DataFrame) -> pd.DataFrame:
+    """Satu baris per klub: ID, logo (2 ukuran), situs resmi, posisi klasemen."""
+    if clubs is None or clubs.empty:
+        # Cadangan: ID klub dari dropdown leaderboard (logo memakai ID yang sama)
+        if leaders is None or leaders.empty:
+            return pd.DataFrame(columns=["team", "club_id", "logo_url_small", "logo_url_large", "website"])
+        clubs = leaders[["team", "club_id"]].drop_duplicates("team").assign(website=None)
+    clubs = clubs.copy()
+    clubs["club_id"] = clubs["club_id"].astype(str)
+    logos = clubs["club_id"].map(parse.logo_urls).apply(pd.Series)
+    clubs = pd.concat([clubs.reset_index(drop=True), logos.reset_index(drop=True)], axis=1)
+    if len(official_table):
+        clubs = clubs.merge(official_table[["team", "position", "points"]], on="team", how="left")
+    cols = [c for c in ["team", "club_id", "logo_url_small", "logo_url_large", "website", "position", "points"] if c in clubs]
+    return clubs[cols].sort_values("team").reset_index(drop=True)
+
+
 def build_tables(fixtures: pd.DataFrame, details: dict[str, dict],
-                 official_table: pd.DataFrame, leaders: pd.DataFrame | None) -> dict[str, pd.DataFrame]:
+                 official_table: pd.DataFrame, leaders: pd.DataFrame | None,
+                 clubs: pd.DataFrame | None = None) -> dict[str, pd.DataFrame]:
     m = fixtures.copy()
     # Lengkapi kolom jadwal dengan info dari halaman detail
     for col in ("kickoff_wib", "city", "attendance", "attendance_pct"):
@@ -217,6 +240,17 @@ def build_tables(fixtures: pd.DataFrame, details: dict[str, dict],
 
     pstats = transform.player_season_stats(apps_df, goals_df, cards_df, team_rows, leaders_wide)
 
+    # Link profil resmi pemain (slug dari leaderboard; pemain yang tidak masuk
+    # top-10 kategori mana pun di klubnya belum punya link)
+    if leaders is not None and len(leaders) and "player_slug" in leaders:
+        slugs = (leaders.dropna(subset=["player_slug"]).drop_duplicates(["player", "team"])
+                 .set_index(["player", "team"])["player_slug"])
+        key = list(zip(pstats["player"], pstats["team"]))
+        pstats["profile_url"] = [
+            f"https://ileague.id/clubs/singleplayer/{http.COMPETITION}/{slugs[k]}" if k in slugs.index else None
+            for k in key
+        ]
+
     # Validasi silang gol per pemain vs leaderboard resmi
     if "goals_official" in pstats:
         # Leaderboard resmi ikut menghitung gol bunuh diri sebagai gol si pemain
@@ -237,6 +271,7 @@ def build_tables(fixtures: pd.DataFrame, details: dict[str, dict],
                             "detail": f"{r.team}: {r.points} poin/{r.played} main vs resmi {r.points_official}/{r.played_official}"})
 
     tables = {
+        "clubs": build_clubs(clubs, leaders, official_table),
         "matches": matches,
         "team_match_results": team_rows,
         "team_match_stats": tstats_df,
@@ -286,9 +321,14 @@ def main(argv: list[str] | None = None) -> int:
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
     DATA.mkdir(exist_ok=True)
 
+    clubs = None
     if args.seed:
         fixtures, details, official, leaders = load_seed(args.seed)
     else:
+        try:
+            clubs = scrape_clubs()
+        except Exception as exc:  # logo tidak wajib; jangan gagalkan run
+            log.warning("Daftar klub/logo gagal diambil: %s", exc)
         fixtures = scrape_fixtures()
         n_new = scrape_details(fixtures, args.full_refresh)
         details = load_details(fixtures)
@@ -303,7 +343,7 @@ def main(argv: list[str] | None = None) -> int:
             log.info("Tidak ada laga baru — leaderboard tidak di-scrape ulang.")
             leaders = pd.read_csv(lb_path)
 
-    tables = build_tables(fixtures, details, official, leaders)
+    tables = build_tables(fixtures, details, official, leaders, clubs)
     for name, df in tables.items():
         df.to_csv(DATA / f"{name}.csv", index=False)
         log.info("Tulis %s.csv (%d baris)", name, len(df))

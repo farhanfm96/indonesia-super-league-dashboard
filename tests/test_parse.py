@@ -48,6 +48,15 @@ def test_match_detail_persija_persik():
     assert d["team_stats"]["away"]["passes_completed"] == 198
 
 
+def test_club_logos():
+    clubs = {c["team"]: c for c in parse.parse_clubs((FX / "home_club_strip.html").read_text())}
+    assert len(clubs) == 4
+    assert clubs["PSS SLEMAN"]["club_id"] == "23"
+    assert clubs["AREMA FC"]["website"] == "http://www.aremafc.com"
+    assert clubs["GARUDAYAKSA FC"]["website"] is None  # situs "http://-" dibuang
+    assert parse.logo_urls("12")["logo_url_large"] == "https://assets.ileague.id/uploads/images/logo/95/v/150/12.png"
+
+
 def test_minute_parsing():
     assert parse.parse_minute("90+1'") == ("90+1", 91)
     assert parse.parse_minute("45 + 2") == ("45+2", 47)

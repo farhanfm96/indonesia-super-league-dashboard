@@ -20,6 +20,7 @@ from .build import DATA
 
 # Tabel yang dikirim ke Sheets (urutan = urutan tab)
 SHEET_TABLES = [
+    "clubs",
     "matches",
     "standings_official",
     "standings_by_week",

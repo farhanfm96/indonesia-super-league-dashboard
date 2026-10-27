@@ -556,6 +556,36 @@ def parse_leaderboard(html: str) -> list[dict]:
     return out
 
 
+LOGO_RE = re.compile(r"/uploads/images/logo/(?P<comp>\d+)/[hv]/\d+/(?P<id>\d+)\.png")
+
+
+def parse_clubs(html: str) -> list[dict]:
+    """Daftar klub + logo dari strip logo di beranda kompetisi.
+
+    <a href="http://www.aremafc.com"><img src=".../logo/95/h/50/32.png" title="AREMA FC"></a>
+    """
+    soup = _soup(html)
+    out, seen = [], set()
+    for img in soup.find_all("img"):
+        m = LOGO_RE.search(img.get("src") or "")
+        name = clean_team(img.get("title") or (img.get("alt") or "").removeprefix("logo-"))
+        if not m or not name or name in seen:
+            continue
+        seen.add(name)
+        a = img.find_parent("a")
+        site = (a.get("href") or "").strip() if a else ""
+        out.append({"team": name, "club_id": m["id"], "website": site if re.match(r"https?://[\w.-]+\.\w+", site) else None})
+    return out
+
+
+def logo_urls(club_id: str, comp_id: str = "95") -> dict[str, str]:
+    base = f"https://assets.ileague.id/uploads/images/logo/{comp_id}"
+    return {
+        "logo_url_small": f"{base}/h/50/{club_id}.png",
+        "logo_url_large": f"{base}/v/150/{club_id}.png",
+    }
+
+
 def parse_club_options(html: str) -> dict[str, str]:
     """Ambil {club_id: nama_klub} dari dropdown klub di halaman leaderboard."""
     soup = _soup(html)
