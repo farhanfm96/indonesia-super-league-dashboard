@@ -1,0 +1,65 @@
+name: Update Super League data
+
+on:
+  schedule:
+    # Waktu dalam UTC. 16:47 UTC = 23:47 WIB (setelah laga malam selesai),
+    # 23:47 UTC = 06:47 WIB (menangkap koreksi data yang telat diunggah operator).
+    - cron: "47 16 * * *"
+    - cron: "47 23 * * *"
+  workflow_dispatch:
+    inputs:
+      full_refresh:
+        description: "Scrape ulang semua laga (bukan hanya yang baru)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      HAS_SHEETS: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON != '' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: python -m pytest -q
+
+      - name: Scrape and build tables
+        env:
+          FULL_REFRESH: ${{ inputs.full_refresh || 'false' }}
+        run: python -m scraper.build $([ "$FULL_REFRESH" = "true" ] && echo --full-refresh)
+
+      - name: Push to Google Sheets
+        if: env.HAS_SHEETS == 'true'
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+        run: python -m scraper.sheets
+
+      - name: Commit data changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan data."
+          else
+            git commit -m "data: update $(TZ=Asia/Jakarta date '+%Y-%m-%d %H:%M WIB')"
+            git push
+          fi

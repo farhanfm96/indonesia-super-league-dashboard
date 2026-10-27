@@ -1,0 +1,6 @@
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.0
+pandas>=2.2
+gspread>=6.1
+pytest>=8.0
