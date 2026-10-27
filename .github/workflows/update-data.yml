@@ -4,8 +4,7 @@ on:
   schedule:
     # Waktu dalam UTC. 16:47 UTC = 23:47 WIB (setelah laga malam selesai),
     # 23:47 UTC = 06:47 WIB (menangkap koreksi data yang telat diunggah operator).
-    - cron: "47 16 * * *"
-    - cron: "47 23 * * *"
+    - cron: "0 16 * * *"
   workflow_dispatch:
     inputs:
       full_refresh:
