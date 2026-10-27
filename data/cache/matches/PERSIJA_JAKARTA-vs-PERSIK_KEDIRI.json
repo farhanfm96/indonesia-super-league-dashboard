@@ -120,7 +120,7 @@
   }
  ],
  "cards_source": "timeline",
- "cards_consistent": true,
+ "cards_consistent": false,
  "appearances": [
   {
    "player": "NADEO ARGA WINATA",
@@ -710,34 +710,34 @@
  ],
  "team_stats": {
   "home": {
-   "possession_pct": 57,
-   "shots_on_target": 4,
-   "shots_total": 11,
-   "shot_accuracy_pct": 67,
-   "passes_completed": 263,
-   "passes_failed": 90,
-   "corners": 4,
-   "tackles_won": 22,
-   "offsides": 5,
-   "fouls": 13,
-   "yellow_cards": 3,
-   "red_cards": 0
+   "possession_pct": null,
+   "shots_on_target": null,
+   "shots_total": null,
+   "shot_accuracy_pct": null,
+   "passes_completed": null,
+   "passes_failed": null,
+   "corners": null,
+   "tackles_won": null,
+   "offsides": null,
+   "fouls": null,
+   "yellow_cards": null,
+   "red_cards": null
   },
   "away": {
-   "possession_pct": 43,
-   "shots_on_target": 4,
-   "shots_total": 11,
-   "shot_accuracy_pct": 50,
-   "passes_completed": 198,
-   "passes_failed": 84,
-   "corners": 4,
-   "tackles_won": 19,
-   "offsides": 5,
-   "fouls": 12,
-   "yellow_cards": 5,
-   "red_cards": 0
+   "possession_pct": null,
+   "shots_on_target": null,
+   "shots_total": null,
+   "shot_accuracy_pct": null,
+   "passes_completed": null,
+   "passes_failed": null,
+   "corners": null,
+   "tackles_won": null,
+   "offsides": null,
+   "fouls": null,
+   "yellow_cards": null,
+   "red_cards": null
   }
  },
  "match_id": "PERSIJA_JAKARTA-vs-PERSIK_KEDIRI",
- "scraped_at": "2026-10-27T07:58:43.170Z"
+ "scraped_at": "2026-10-27T15:40:12+07:00"
 }
