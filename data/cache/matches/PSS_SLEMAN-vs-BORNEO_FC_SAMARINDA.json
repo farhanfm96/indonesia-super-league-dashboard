@@ -716,8 +716,8 @@
   "home": {
    "possession_pct": 48,
    "shots_on_target": 3,
-   "shots_total": 14,
-   "shot_accuracy_pct": 38,
+   "shots_total": 13,
+   "shot_accuracy_pct": 43,
    "passes_completed": 330,
    "passes_failed": 85,
    "corners": 6,
@@ -743,5 +743,5 @@
   }
  },
  "match_id": "PSS_SLEMAN-vs-BORNEO_FC_SAMARINDA",
- "scraped_at": "2026-10-28T03:30:37+07:00"
+ "scraped_at": "2026-10-29T03:52:39+07:00"
 }
