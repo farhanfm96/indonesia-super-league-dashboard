@@ -47,71 +47,62 @@
  ],
  "cards": [
   {
-   "side": "away",
-   "player": "ASGAL HABIB ALTARIK",
-   "minute": "25",
-   "minute_num": 25,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "BORNEO FC SAMARINDA"
-  },
-  {
-   "side": "home",
-   "player": "STEFAN ASHKOVSKI",
-   "minute": "41",
-   "minute_num": 41,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "PSS SLEMAN"
-  },
-  {
-   "side": "home",
-   "player": "STEFAN ASHKOVSKI",
-   "minute": "43",
-   "minute_num": 43,
-   "card": "red",
-   "source": "timeline",
-   "team": "PSS SLEMAN"
-  },
-  {
-   "side": "home",
    "player": "CLEBERSON MARTINS DE SOUZA",
    "minute": "45",
    "minute_num": 45,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSS SLEMAN"
+   "source": "header",
+   "team": "PSS SLEMAN",
+   "side": "home"
   },
   {
-   "side": "away",
-   "player": "AMAR RAYHAN BRKIC",
-   "minute": "53",
-   "minute_num": 53,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "BORNEO FC SAMARINDA"
-  },
-  {
-   "side": "home",
    "player": "DOMINIKUS DION OKTAWIAN WIBOWO",
    "minute": "61",
    "minute_num": 61,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSS SLEMAN"
+   "source": "header",
+   "team": "PSS SLEMAN",
+   "side": "home"
   },
   {
-   "side": "away",
-   "player": "VAN BASTY SOUSA E SILVA",
-   "minute": "84",
-   "minute_num": 84,
+   "player": "STEFAN ASHKOVSKI",
+   "minute": "43",
+   "minute_num": 43,
+   "card": "red",
+   "source": "header",
+   "team": "PSS SLEMAN",
+   "side": "home"
+  },
+  {
+   "player": "AMAR RAYHAN BRKIC",
+   "minute": "45",
+   "minute_num": 45,
    "card": "yellow",
-   "source": "timeline",
-   "team": "BORNEO FC SAMARINDA"
+   "source": "header",
+   "team": "BORNEO FC SAMARINDA",
+   "side": "away"
+  },
+  {
+   "player": "ASGAL HABIB ALTARIK",
+   "minute": "25",
+   "minute_num": 25,
+   "card": "yellow",
+   "source": "header",
+   "team": "BORNEO FC SAMARINDA",
+   "side": "away"
+  },
+  {
+   "player": "VAN BASTY SOUSA E SILVA",
+   "minute": "85",
+   "minute_num": 85,
+   "card": "yellow",
+   "source": "header",
+   "team": "BORNEO FC SAMARINDA",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
- "cards_consistent": false,
+ "cards_source": "header",
+ "cards_consistent": true,
  "appearances": [
   {
    "player": "PEDRO CARACOCI DE OLIVEIRA",
@@ -743,5 +734,5 @@
   }
  },
  "match_id": "PSS_SLEMAN-vs-BORNEO_FC_SAMARINDA",
- "scraped_at": "2026-10-29T03:52:39+07:00"
+ "scraped_at": "2026-10-30T03:56:54+07:00"
 }
