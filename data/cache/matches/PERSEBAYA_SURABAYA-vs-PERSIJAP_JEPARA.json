@@ -39,43 +39,43 @@
  ],
  "cards": [
   {
-   "side": "away",
-   "player": "JOSE ANTONIO RUIZ LOPEZ",
-   "minute": "13",
-   "minute_num": 13,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "PERSIJAP JEPARA"
-  },
-  {
-   "side": "home",
    "player": "RICKY PRATAMA",
-   "minute": "32",
-   "minute_num": 32,
+   "minute": "31",
+   "minute_num": 31,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PERSEBAYA SURABAYA"
+   "source": "header",
+   "team": "PERSEBAYA SURABAYA",
+   "side": "home"
   },
   {
-   "side": "away",
    "player": "ABRIZAL UMANAILO",
    "minute": "59",
    "minute_num": 59,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PERSIJAP JEPARA"
+   "source": "header",
+   "team": "PERSIJAP JEPARA",
+   "side": "away"
   },
   {
-   "side": "away",
+   "player": "JOSE ANTONIO RUIZ LOPEZ",
+   "minute": "12",
+   "minute_num": 12,
+   "card": "yellow",
+   "source": "header",
+   "team": "PERSIJAP JEPARA",
+   "side": "away"
+  },
+  {
    "player": "SERGIO CHICA VILLARES",
    "minute": "86",
    "minute_num": 86,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PERSIJAP JEPARA"
+   "source": "header",
+   "team": "PERSIJAP JEPARA",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -469,6 +469,58 @@
    "minutes_played": 90
   },
   {
+   "player": "ABRIZAL UMANAILO",
+   "shirt_no": 96,
+   "position_group": "FWD",
+   "is_starter": true,
+   "is_captain": false,
+   "sub_on_min": null,
+   "sub_off_min": 90,
+   "team": "PERSIJAP JEPARA",
+   "side": "away",
+   "position": "RWF",
+   "minutes_played": 90
+  },
+  {
+   "player": "JUAN DOUGLAS TELES DA SILVA",
+   "shirt_no": 9,
+   "position_group": "FWD",
+   "is_starter": true,
+   "is_captain": false,
+   "sub_on_min": null,
+   "sub_off_min": 90,
+   "team": "PERSIJAP JEPARA",
+   "side": "away",
+   "position": "CF",
+   "minutes_played": 90
+  },
+  {
+   "player": "VASKO KALEZIC",
+   "shirt_no": 70,
+   "position_group": "FWD",
+   "is_starter": true,
+   "is_captain": false,
+   "sub_on_min": null,
+   "sub_off_min": 75,
+   "team": "PERSIJAP JEPARA",
+   "side": "away",
+   "position": "CF",
+   "minutes_played": 75
+  },
+  {
+   "player": "YAYA SOGODOGO",
+   "shirt_no": 17,
+   "position_group": "FWD",
+   "is_starter": true,
+   "is_captain": false,
+   "sub_on_min": null,
+   "sub_off_min": 81,
+   "team": "PERSIJAP JEPARA",
+   "side": "away",
+   "position": "LWF",
+   "minutes_played": 81
+  },
+  {
    "player": "MUHAMMAD ADZIKRY FADLILLAH",
    "shirt_no": 71,
    "position_group": "SUB",
@@ -617,5 +669,5 @@
   }
  },
  "match_id": "PERSEBAYA_SURABAYA-vs-PERSIJAP_JEPARA",
- "scraped_at": "2026-10-31T03:31:57+07:00"
+ "scraped_at": "2026-11-01T02:48:17+07:00"
 }

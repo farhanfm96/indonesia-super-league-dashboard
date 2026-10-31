@@ -39,52 +39,52 @@
  ],
  "cards": [
   {
-   "side": "away",
-   "player": "MOISÉS WOLSCHICK",
-   "minute": "19",
-   "minute_num": 19,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "BHAYANGKARA LAMPUNG FC"
-  },
-  {
-   "side": "away",
-   "player": "FERRE MURARI",
-   "minute": "31",
-   "minute_num": 31,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "BHAYANGKARA LAMPUNG FC"
-  },
-  {
-   "side": "home",
    "player": "YAKOB SAYURI",
    "minute": "40",
    "minute_num": 40,
    "card": "yellow",
-   "source": "timeline",
-   "team": "JAVA UNITED FC"
+   "source": "header",
+   "team": "JAVA UNITED FC",
+   "side": "home"
   },
   {
-   "side": "away",
+   "player": "FERRE MURARI",
+   "minute": "31",
+   "minute_num": 31,
+   "card": "yellow",
+   "source": "header",
+   "team": "BHAYANGKARA LAMPUNG FC",
+   "side": "away"
+  },
+  {
    "player": "KEVIN LEONEL SIBILLE",
    "minute": "70",
    "minute_num": 70,
    "card": "yellow",
-   "source": "timeline",
-   "team": "BHAYANGKARA LAMPUNG FC"
+   "source": "header",
+   "team": "BHAYANGKARA LAMPUNG FC",
+   "side": "away"
   },
   {
-   "side": "away",
+   "player": "MOISÉS WOLSCHICK",
+   "minute": "19",
+   "minute_num": 19,
+   "card": "yellow",
+   "source": "header",
+   "team": "BHAYANGKARA LAMPUNG FC",
+   "side": "away"
+  },
+  {
    "player": "MOUSSA SIDIBE",
    "minute": "88",
    "minute_num": 88,
    "card": "yellow",
-   "source": "timeline",
-   "team": "BHAYANGKARA LAMPUNG FC"
+   "source": "header",
+   "team": "BHAYANGKARA LAMPUNG FC",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -704,5 +704,5 @@
   }
  },
  "match_id": "JAVA_UNITED_FC-vs-BHAYANGKARA_LAMPUNG_FC",
- "scraped_at": "2026-10-31T03:31:56+07:00"
+ "scraped_at": "2026-11-01T02:48:16+07:00"
 }
