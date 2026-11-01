@@ -722,7 +722,7 @@
    "shots_on_target": 4,
    "shots_total": 10,
    "shot_accuracy_pct": 67,
-   "passes_completed": 389,
+   "passes_completed": 388,
    "passes_failed": 63,
    "corners": 4,
    "tackles_won": 19,
@@ -733,5 +733,5 @@
   }
  },
  "match_id": "AREMA_FC-vs-BALI_UNITED_FC",
- "scraped_at": "2026-11-01T02:48:19+07:00"
+ "scraped_at": "2026-11-02T03:20:49+07:00"
 }
