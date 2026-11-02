@@ -47,25 +47,25 @@
  ],
  "cards": [
   {
-   "side": "away",
-   "player": "HUGO SAMIR",
-   "minute": "11",
-   "minute_num": 11,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "BORNEO FC SAMARINDA"
-  },
-  {
-   "side": "away",
    "player": "ADITYA WARMAN",
    "minute": "23",
    "minute_num": 23,
    "card": "yellow",
-   "source": "timeline",
-   "team": "BORNEO FC SAMARINDA"
+   "source": "header",
+   "team": "BORNEO FC SAMARINDA",
+   "side": "away"
+  },
+  {
+   "player": "HUGO SAMIR",
+   "minute": "10",
+   "minute_num": 10,
+   "card": "yellow",
+   "source": "header",
+   "team": "BORNEO FC SAMARINDA",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -685,5 +685,5 @@
   }
  },
  "match_id": "PSIM_YOGYAKARTA-vs-BORNEO_FC_SAMARINDA",
- "scraped_at": "2026-11-02T03:20:51+07:00"
+ "scraped_at": "2026-11-03T06:21:56+07:00"
 }

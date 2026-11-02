@@ -55,43 +55,43 @@
  ],
  "cards": [
   {
-   "side": "away",
-   "player": "ARDI RAMDANI",
-   "minute": "18",
-   "minute_num": 18,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "ISENMULANG KALTENG FC"
-  },
-  {
-   "side": "away",
-   "player": "DOUGLAS NONATO OLIVEIRA CRUZ",
-   "minute": "48",
-   "minute_num": 48,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "ISENMULANG KALTENG FC"
-  },
-  {
-   "side": "home",
    "player": "JULIO CESAR DE FREITAS FILHO",
    "minute": "66",
    "minute_num": 66,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PERSIB BANDUNG"
+   "source": "header",
+   "team": "PERSIB BANDUNG",
+   "side": "home"
   },
   {
-   "side": "away",
+   "player": "ARDI RAMDANI",
+   "minute": "18",
+   "minute_num": 18,
+   "card": "yellow",
+   "source": "header",
+   "team": "ISENMULANG KALTENG FC",
+   "side": "away"
+  },
+  {
+   "player": "DOUGLAS NONATO OLIVEIRA CRUZ",
+   "minute": "48",
+   "minute_num": 48,
+   "card": "yellow",
+   "source": "header",
+   "team": "ISENMULANG KALTENG FC",
+   "side": "away"
+  },
+  {
    "player": "VINICIUS FERREIRA DE JESUS",
    "minute": "69",
    "minute_num": 69,
    "card": "yellow",
-   "source": "timeline",
-   "team": "ISENMULANG KALTENG FC"
+   "source": "header",
+   "team": "ISENMULANG KALTENG FC",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -699,7 +699,7 @@
    "shots_on_target": 7,
    "shots_total": 20,
    "shot_accuracy_pct": 47,
-   "passes_completed": 471,
+   "passes_completed": 473,
    "passes_failed": 57,
    "corners": 5,
    "tackles_won": 10,
@@ -718,11 +718,11 @@
    "corners": 3,
    "tackles_won": 18,
    "offsides": 1,
-   "fouls": 5,
+   "fouls": 6,
    "yellow_cards": 3,
    "red_cards": 0
   }
  },
  "match_id": "PERSIB_BANDUNG-vs-ISENMULANG_KALTENG_FC",
- "scraped_at": "2026-11-02T03:20:52+07:00"
+ "scraped_at": "2026-11-03T06:21:57+07:00"
 }

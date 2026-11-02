@@ -55,34 +55,34 @@
  ],
  "cards": [
   {
-   "side": "home",
    "player": "ALFIN FAIZ KELILAUW",
    "minute": "20",
    "minute_num": 20,
    "card": "yellow",
-   "source": "timeline",
-   "team": "GARUDAYAKSA FC"
+   "source": "header",
+   "team": "GARUDAYAKSA FC",
+   "side": "home"
   },
   {
-   "side": "away",
-   "player": "KEVIN GOMES DE OLIVERA",
-   "minute": "38",
-   "minute_num": 38,
-   "card": "red",
-   "source": "timeline",
-   "team": "PSS SLEMAN"
-  },
-  {
-   "side": "away",
    "player": "DOMINIKUS DION OKTAWIAN WIBOWO",
    "minute": "56",
    "minute_num": 56,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSS SLEMAN"
+   "source": "header",
+   "team": "PSS SLEMAN",
+   "side": "away"
+  },
+  {
+   "player": "KEVIN GOMES DE OLIVERA",
+   "minute": "37",
+   "minute_num": 37,
+   "card": "red",
+   "source": "header",
+   "team": "PSS SLEMAN",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -676,8 +676,8 @@
   "away": {
    "possession_pct": 45,
    "shots_on_target": 2,
-   "shots_total": 10,
-   "shot_accuracy_pct": 25,
+   "shots_total": 11,
+   "shot_accuracy_pct": 22,
    "passes_completed": 387,
    "passes_failed": 69,
    "corners": 4,
@@ -689,5 +689,5 @@
   }
  },
  "match_id": "GARUDAYAKSA_FC-vs-PSS_SLEMAN",
- "scraped_at": "2026-11-02T03:20:53+07:00"
+ "scraped_at": "2026-11-03T06:22:00+07:00"
 }
