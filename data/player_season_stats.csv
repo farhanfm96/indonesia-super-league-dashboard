@@ -1,8 +1,8 @@
 player,team,appearances,starts,minutes,position_group,goals,penalty_goals,yellow_cards,red_cards,clean_sheets,assists,ball_recoveries,chances_created,clearances,goals_official,interceptions,passes,saves,shots_off_target,shots_on_target,successful_dribbles,tackles,yellow_cards_official,goals_per_90,goal_contributions,profile_url,own_goals
+DIMITAR GEORGIEV MITKOV,MADURA UNITED FC,8,8,672,FWD,6,0,0,1,0,2,0,6,7,6,0,0,0,6,10,0,0,0,0.8,8,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/dimitar_georgiev_mitkov,0
 ALEXANDER THOMAS JEREMEJEFF,PERSIJA JAKARTA,8,8,697,FWD,6,1,2,0,0,1,0,10,10,6,7,0,0,6,10,0,0,2,0.77,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/alexander_thomas_jeremejeff,0
-DIMITAR GEORGIEV MITKOV,MADURA UNITED FC,7,7,582,FWD,5,0,0,1,0,1,0,5,7,5,0,0,0,5,8,0,0,0,0.77,6,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/dimitar_georgiev_mitkov,0
-RAIANDERSON DA COSTA MORAIS,AREMA FC,8,8,616,MID,5,1,0,0,0,2,0,15,11,5,6,169,0,6,9,5,13,0,0.73,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/raianderson_da_costa_morais,0
-DENILSON PEREIRA JUNIOR,DEWA UNITED BANTEN FC,7,7,630,FWD,5,2,1,0,0,2,0,17,8,5,9,150,0,13,11,9,5,1,0.71,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/denilson_pereira_junior,0
+DENILSON PEREIRA JUNIOR,DEWA UNITED BANTEN FC,8,8,720,FWD,6,3,2,0,0,2,0,19,8,6,9,168,0,14,12,11,0,2,0.75,8,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/denilson_pereira_junior,0
+RAIANDERSON DA COSTA MORAIS,AREMA FC,9,9,651,MID,5,1,0,0,0,2,0,15,12,5,6,176,0,6,10,5,13,0,0.69,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/raianderson_da_costa_morais,0
 TEPPEI YACHIDA,BALI UNITED FC,8,8,697,MID,5,2,1,0,0,2,17,14,2,5,0,210,0,8,8,9,6,1,0.65,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/teppei_yachida,0
 ANDREJIC ALEKSA,PERSITA,6,1,115,MID,4,0,0,0,0,0,0,0,0,4,0,0,0,2,6,3,0,0,3.13,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/andrejic_aleksa,0
 IRFAN JAYA,BALI UNITED FC,8,5,429,FWD,4,0,0,0,0,3,0,6,0,4,7,0,0,7,8,0,0,0,0.84,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/irfan_jaya,0
@@ -12,28 +12,28 @@ MATHEUS FORNAZARI CUSTODIO,PSS SLEMAN,8,3,348,FWD,3,0,1,0,0,1,0,0,4,3,0,0,0,13,5
 JAYRO HESTEFANO JEAN,GARUDAYAKSA FC,5,5,376,FWD,3,0,0,0,0,1,0,8,0,3,0,0,0,5,6,10,0,0,0.72,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jayro_hestefano_jean,0
 JORT VAN DER SANDE,BALI UNITED FC,5,5,379,FWD,3,0,0,0,0,2,0,6,0,3,0,0,0,0,3,2,9,0,0.71,5,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jort_van_der_sande,0
 BALŠA SEKULIC,PERSIB BANDUNG,7,3,395,FWD,3,0,1,0,0,0,0,4,4,3,0,0,0,4,4,0,7,1,0.68,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/balŠa_sekulic,0
+TAISEI MARUKAWA,DEWA UNITED BANTEN FC,8,4,470,FWD,3,0,0,0,0,4,10,15,0,3,0,152,0,2,7,9,0,0,0.57,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/taisei_marukawa,0
 ALEX MARTINS FERREIRA,PERSEBAYA SURABAYA,7,4,487,FWD,3,1,0,0,0,0,0,6,0,3,0,0,0,6,9,2,0,0,0.55,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/alex_martins_ferreira,0
 HIROMU TANAKA,PSS SLEMAN,8,5,505,MID,3,0,1,0,0,1,12,11,0,3,0,126,0,3,7,4,9,1,0.53,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/hiromu_tanaka,0
 MELVYN LORENZEN,PSS SLEMAN,8,6,507,FWD,3,0,1,0,0,0,0,5,0,3,0,0,0,4,4,18,5,1,0.53,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/melvyn_lorenzen,0
 BRIAN ALEJANDRO RUBIO RODRIGUEZ,GARUDAYAKSA FC,7,6,556,FWD,3,0,2,0,0,0,9,9,7,3,8,129,0,3,9,0,0,2,0.49,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/brian_alejandro_rubio_rodriguez,0
 QUEVEN DA SILVA INACIO,BALI UNITED FC,7,7,582,MID,3,0,2,0,0,1,18,12,4,3,14,263,0,5,10,2,12,2,0.46,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/queven_da_silva_inacio,0
-JUAN DANILO SANTACRUZ GONZALEZ,MADURA UNITED FC,7,7,584,MID,3,0,0,0,0,3,12,13,0,3,12,173,0,7,5,6,6,0,0.46,6,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/juan_danilo_santacruz_gonzalez,0
+JUAN DANILO SANTACRUZ GONZALEZ,MADURA UNITED FC,8,7,601,MID,3,0,0,0,0,3,12,15,0,3,12,183,0,7,6,6,7,0,0.45,6,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/juan_danilo_santacruz_gonzalez,0
 STEFAN JEVTOSKI,PSM MAKASSAR,8,8,690,MID,3,1,3,0,0,0,24,12,5,3,27,229,0,0,5,4,21,3,0.39,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/stefan_jevtoski,0
 STJEPAN LONCAR,PERSIJA JAKARTA,8,8,699,MID,3,0,3,0,0,2,16,19,5,3,11,321,0,3,8,4,16,3,0.39,5,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/stjepan_loncar,0
 MIGUEL ANGELO MARQUES PINTO PEREIRA,PERSEBAYA SURABAYA,8,8,720,FWD,3,0,0,0,0,1,11,8,4,3,7,136,0,9,5,9,0,0,0.38,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/miguel_angelo_marques_pinto_pereira,0
 THIJMEN GOPPEL,BALI UNITED FC,8,8,720,FWD,3,0,1,0,0,1,19,11,10,3,16,325,0,8,4,14,19,1,0.38,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/thijmen_goppel,0
+PAULO DOMINGOS GALI DA COSTA FREITAS,MADURA UNITED FC,9,9,721,FWD,3,0,1,0,0,2,15,16,0,3,11,195,0,5,7,9,14,1,0.37,5,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/paulo_domingos_gali_da_costa_freitas,0
 IVAN MAMUT,PERSIJA JAKARTA,7,1,153,FWD,2,0,1,0,0,0,0,0,0,2,0,0,0,3,5,0,0,1,1.18,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ivan_mamut,0
 LUKA CUMIC,PSM MAKASSAR,4,1,154,FWD,2,0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,1.17,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/luka_cumic,0
 DAVID APARECIDO DA SILVA,JAVA UNITED FC,3,2,183,FWD,2,1,0,0,0,0,0,0,0,2,0,0,0,2,3,0,0,0,0.98,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/david_aparecido_da_silva,0
-OLUWASEGUN SAMUEL OTUSANYA,AREMA FC,6,3,242,FWD,2,0,0,0,0,0,0,2,0,2,0,0,0,1,2,0,0,0,0.74,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/oluwasegun_samuel_otusanya,0
 LUKAS PIVETTA BRAMBILLA,JAVA UNITED FC,5,3,267,MID,2,0,0,0,0,0,0,10,0,2,0,0,0,2,4,6,7,0,0.67,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/lukas_pivetta_brambilla,0
 MARKO DUGANDZIC,BALI UNITED FC,5,3,284,FWD,2,0,0,0,0,1,0,3,0,2,0,0,0,2,3,0,0,0,0.63,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/marko_dugandzic,0
+OLUWASEGUN SAMUEL OTUSANYA,AREMA FC,7,3,297,FWD,2,0,0,0,0,0,0,2,0,2,0,0,0,1,2,0,0,0,0.61,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/oluwasegun_samuel_otusanya,0
 YANN KEVIN MABELLA,PERSEBAYA SURABAYA,8,4,324,FWD,2,0,0,0,0,1,0,3,0,2,0,0,0,0,3,7,0,0,0.56,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/yann_kevin_mabella,0
 LUKA MENALO,PERSIB BANDUNG,8,4,338,FWD,2,0,1,0,0,2,10,10,0,2,0,0,0,3,6,9,0,1,0.53,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/luka_menalo,0
 JEFFERSON BRENES ROJAS,BHAYANGKARA LAMPUNG FC,5,5,396,MID,2,0,0,1,0,0,0,7,0,2,11,171,0,3,4,2,0,0,0.45,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jefferson_brenes_rojas,0
 MARC ANTHONY KLOK,PERSIB BANDUNG,6,5,445,MID,2,0,0,0,0,1,16,2,10,2,10,256,0,4,2,0,8,0,0.4,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/marc_anthony_klok,0
-TAISEI MARUKAWA,DEWA UNITED BANTEN FC,7,4,445,FWD,2,0,0,0,0,4,9,15,0,2,0,138,0,2,6,9,0,0,0.4,6,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/taisei_marukawa,0
-ADRIAN CYPRIAN PURZYCKI,PSIM YOGYAKARTA,6,6,500,MID,2,0,0,1,0,0,18,5,9,2,13,244,0,0,4,0,10,0,0.36,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/adrian_cyprian_purzycki,0
 CLAUDIO LUCAS MORAIS FERREIRA DOS SANTOS,PERSITA,7,7,541,MID,2,0,3,0,0,5,8,11,0,2,13,115,0,4,3,10,16,3,0.33,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/claudio_lucas_morais_ferreira_dos_santos,0
 JOSE ENRIQUE RODRIGUEZ,PERSIK KEDIRI,8,6,541,FWD,2,0,2,0,0,1,0,6,0,2,0,0,0,6,3,0,5,2,0.33,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jose_enrique_rodriguez,0
 UILLIAM BARROS PEREIRA,PERSIB BANDUNG,8,6,550,FWD,2,0,1,0,0,1,0,5,4,2,13,0,0,4,4,2,13,1,0.33,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/uilliam_barros_pereira,0
@@ -41,22 +41,23 @@ MARIANO EZEQUIEL PERALTA BAUER,PERSIB BANDUNG,8,7,560,FWD,2,0,1,0,0,2,9,11,0,2,0
 JUAN DOUGLAS TELES DA SILVA,PERSIJAP JEPARA,8,6,562,FWD,2,0,3,0,0,0,0,3,0,2,0,0,0,7,7,10,0,3,0.32,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/juan_douglas_teles_da_silva,0
 ALLANO BRENDON DE SOUZA LIMA,BHAYANGKARA LAMPUNG FC,7,6,564,MID,2,0,2,0,0,2,16,22,0,2,10,248,0,2,4,8,0,2,0.32,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/allano_brendon_de_souza_lima,0
 MILAN RISTOVSKI,BHAYANGKARA LAMPUNG FC,8,7,571,FWD,2,0,0,0,0,1,0,7,0,2,0,0,0,7,8,5,0,0,0.32,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/milan_ristovski,0
-GABRIEL SILVA COSTA,AREMA FC,8,7,618,FWD,2,0,0,0,0,2,14,9,0,2,0,189,0,2,5,12,10,0,0.29,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gabriel_silva_costa,0
+ADRIAN CYPRIAN PURZYCKI,PSIM YOGYAKARTA,7,7,590,MID,2,0,0,1,0,0,21,6,9,2,16,280,0,0,4,0,13,0,0.31,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/adrian_cyprian_purzycki,0
 MATIAS ERNESTO OCAMPO ORNIZUN,BHAYANGKARA LAMPUNG FC,7,7,625,FWD,2,0,4,0,0,0,0,5,4,2,0,171,0,5,6,11,9,4,0.29,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/matias_ernesto_ocampo_ornizun,0
 RAYCO RODRIGUEZ MEDINA,PERSITA,7,7,630,FWD,2,0,1,0,0,2,15,19,10,2,12,197,0,5,3,15,4,1,0.29,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rayco_rodriguez_medina,0
-PAULO DOMINGOS GALI DA COSTA FREITAS,MADURA UNITED FC,8,8,631,FWD,2,0,1,0,0,1,11,11,0,2,11,169,0,5,5,8,13,1,0.29,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/paulo_domingos_gali_da_costa_freitas,0
-MARCOS VINICIUS SILVESTRE GASPAR,AREMA FC,8,7,663,FWD,2,0,3,0,0,5,15,16,0,2,0,181,0,9,7,9,6,3,0.27,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/marcos_vinicius_silvestre_gaspar,0
 EDUARDO MIGUEL RAMOS BARBOSA,PERSIK KEDIRI,8,8,664,MID,2,0,2,0,0,0,0,11,3,2,12,139,0,0,4,19,0,2,0.27,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/eduardo_miguel_ramos_barbosa,0
 ERNESTO GOMEZ MUÑOZ,PERSIK KEDIRI,8,8,674,FWD,2,1,0,0,0,1,17,13,0,2,10,200,0,5,11,12,6,0,0.27,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ernesto_gomez_muñoz,0
+GABRIEL SILVA COSTA,AREMA FC,9,8,704,FWD,2,0,0,0,0,2,17,9,0,2,0,218,0,3,5,16,11,0,0.26,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gabriel_silva_costa,0
 GUSTAVO ALMEIDA DOS SANTOS,JAVA UNITED FC,8,8,720,FWD,2,0,0,0,0,1,7,6,8,2,0,0,0,8,8,5,0,0,0.25,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gustavo_almeida_dos_santos,0
+MARCOS VINICIUS SILVESTRE GASPAR,AREMA FC,9,8,753,FWD,2,0,3,0,0,5,16,17,0,2,0,197,0,9,8,9,6,3,0.24,7,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/marcos_vinicius_silvestre_gaspar,0
+JORGE AMBROSIO MENDONÇA,MADURA UNITED FC,9,8,765,DEF,2,0,1,0,0,0,16,2,79,2,34,288,0,4,3,0,19,1,0.24,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jorge_ambrosio_mendonça,0
 SANI RIZKI FAUZI,BHAYANGKARA LAMPUNG FC,4,0,35,SUB_ONLY,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2.57,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/sani_rizki_fauzi,0
 SNEYDER JULIAN GUEVARA MUNOZ,AREMA FC,5,0,68,SUB_ONLY,1,0,0,1,0,0,0,0,0,1,8,0,0,0,0,0,0,0,1.32,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/sneyder_julian_guevara_munoz,0
-PEDRO AUGUSTO CABRAL CARVALHO,DEWA UNITED BANTEN FC,3,0,69,SUB_ONLY,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1.3,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/pedro_augusto_cabral_carvalho,0
+PEDRO AUGUSTO CABRAL CARVALHO,DEWA UNITED BANTEN FC,4,0,79,SUB_ONLY,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1.14,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/pedro_augusto_cabral_carvalho,0
 JENS RAVEN,BALI UNITED FC,6,0,81,SUB_ONLY,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,1.11,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jens_raven,0
-MAURO NILS ZIJLSTRA,AREMA FC,6,1,96,FWD,1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0.94,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/mauro_nils_zijlstra,0
-ALBERTINE JOAO PEREIRA,MADURA UNITED FC,7,0,117,SUB_ONLY,1,0,0,0,0,0,0,0,0,1,0,0,0,2,2,0,0,0,0.77,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/albertine_joao_pereira,0
+MAURO NILS ZIJLSTRA,AREMA FC,7,1,100,FWD,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0.9,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/mauro_nils_zijlstra,0
+ALBERTINE JOAO PEREIRA,MADURA UNITED FC,7,0,117,SUB_ONLY,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0.77,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/albertine_joao_pereira,0
 VICTOR JONSON BENJAMIN DETHAN,PERSIJA JAKARTA,5,0,128,SUB_ONLY,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,3,8,0,0.7,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/victor_jonson_benjamin_dethan,0
-JOHNATHAN CARLOS PEREIRA SOUZA,DEWA UNITED BANTEN FC,3,2,147,DEF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,5,0,0.61,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/johnathan_carlos_pereira_souza,0
+JOHNATHAN CARLOS PEREIRA SOUZA,DEWA UNITED BANTEN FC,3,2,147,DEF,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,0.61,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/johnathan_carlos_pereira_souza,0
 SEPTIAN DAVID MAULANA,GARUDAYAKSA FC,2,2,163,MID,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.55,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/septian_david_maulana,0
 RODRIGO SANTOS VARANDA,BORNEO FC SAMARINDA,3,2,174,FWD,1,0,0,0,0,0,0,4,0,1,0,0,0,0,4,7,10,0,0.52,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rodrigo_santos_varanda,0
 KODAI TANAKA,PSM MAKASSAR,7,2,175,FWD,1,0,0,0,0,0,0,0,0,1,0,0,0,1,5,0,0,0,0.51,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kodai_tanaka,0
@@ -66,36 +67,35 @@ CIRO HENRIQUE ALVES FERREIRA E SILVA,JAVA UNITED FC,4,2,213,FWD,1,0,0,0,0,4,0,5,
 ASGAL HABIB ALTARIK,BORNEO FC SAMARINDA,6,3,233,FWD,1,0,1,0,0,0,5,3,0,1,0,0,0,2,2,3,5,1,0.39,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/asgal_habib_altarik,0
 SERGIO CASTEL MARTINEZ,PERSIK KEDIRI,5,2,239,FWD,1,0,0,0,0,0,0,4,0,1,0,0,0,3,2,0,0,0,0.38,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/sergio_castel__martinez,0
 KWON CHANGHOON,PERSIJA JAKARTA,5,2,247,FWD,1,0,0,0,0,1,0,6,0,1,0,0,0,4,2,0,0,0,0.36,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kwon_changhoon,0
-NOAH WAIL SADAOUI,DEWA UNITED BANTEN FC,4,4,263,FWD,1,0,0,0,0,0,9,0,0,1,0,0,0,6,4,4,0,0,0.34,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/noah_wail_sadaoui,0
-GUSTAVO FRANCA AMADIO,AREMA FC,7,2,265,FWD,1,1,0,0,0,2,0,7,0,1,0,0,0,3,5,2,0,0,0.34,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gustavo_franca_amadio,0
 CARLOS IURY BEZERRA DA SILVA,GARUDAYAKSA FC,5,2,266,FWD,1,0,0,0,0,1,0,3,0,1,0,0,0,4,2,3,7,0,0.34,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/carlos_iury_bezerra_da_silva,0
 RAHMAD DANDY SONRIZA,BORNEO FC SAMARINDA,5,3,270,DEF,1,0,0,0,0,0,0,0,5,1,13,100,0,1,0,6,12,0,0.33,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rahmad_dandy_sonriza,0
 ANANDA RAEHAN ALIEF,PSM MAKASSAR,4,4,278,MID,1,0,1,0,0,0,0,0,3,1,6,0,0,2,0,0,0,0,0.32,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ananda_raehan_alief,0
 JULIO CESAR DE FREITAS FILHO,PERSIB BANDUNG,6,2,282,DEF,1,0,1,0,0,0,0,0,16,1,16,0,0,4,0,0,0,1,0.32,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/julio_cesar_de_freitas_filho,0
 MARCOS EMANUEL ASTINA,BORNEO FC SAMARINDA,4,4,302,FWD,1,0,0,0,0,0,0,6,0,1,6,148,0,4,0,0,10,0,0.3,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/marcos_emanuel_astina,0
 IKHSAN NUL ZIKRAK,BORNEO FC SAMARINDA,5,3,303,MID,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,0,0,0.3,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ikhsan_nul_zikrak,0
+GUSTAVO FRANCA AMADIO,AREMA FC,8,2,310,FWD,1,1,0,0,0,2,0,9,0,1,0,0,0,3,5,2,0,0,0.29,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gustavo_franca_amadio,0
 TYRONNE GUSTAVO DEL PINO RAMOS,PERSITA,6,4,323,MID,1,0,0,0,0,1,0,2,0,1,6,86,0,3,6,3,0,0,0.28,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/tyronne_gustavo_del_pino_ramos,0
 T. M ICHSAN,BHAYANGKARA LAMPUNG FC,6,4,326,MID,1,0,1,0,0,1,21,5,5,1,11,0,0,3,1,2,8,1,0.28,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/t._m_ichsan,0
 KAIO NUNES FERREIRA,JAVA UNITED FC,6,4,338,FWD,1,0,0,0,0,0,8,6,0,1,0,0,0,4,4,14,6,0,0.27,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kaio_nunes_ferreira,0
-IRAN DA CONCEICAO GONCALVES JUNIOR,MADURA UNITED FC,6,4,368,FWD,1,0,1,0,0,1,9,3,0,1,9,128,0,4,4,8,0,1,0.24,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/iran_da_conceicao_goncalves_junior,0
+NOAH WAIL SADAOUI,DEWA UNITED BANTEN FC,5,5,343,FWD,1,0,0,0,0,0,0,0,0,1,0,0,0,9,6,6,8,0,0.26,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/noah_wail_sadaoui,0
 RISTO MITREVSKI,PERSEBAYA SURABAYA,8,4,372,DEF,1,0,1,0,0,0,11,0,9,1,28,154,0,2,2,0,8,1,0.24,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/risto_mitrevski,0
-NICK ANNA MARIA FRANCOIS KUIPERS,DEWA UNITED BANTEN FC,6,5,410,DEF,1,0,3,0,0,0,14,0,33,1,25,198,0,0,2,0,10,3,0.22,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/nick_anna_maria_francois_kuipers,0
 ACHMAT FAHRUL ADITIA,PSM MAKASSAR,8,5,420,MID,1,0,0,0,0,0,0,6,0,1,0,0,0,4,2,2,0,0,0.21,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/achmat_fahrul_aditia,0
-EGY MAULANA VIKRI,DEWA UNITED BANTEN FC,8,6,422,FWD,1,0,0,0,0,0,0,8,0,1,0,0,0,0,3,2,0,0,0.21,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/egy_maulana_vikri,0
+EGY MAULANA VIKRI,DEWA UNITED BANTEN FC,9,6,437,FWD,1,0,0,0,0,0,0,9,0,1,0,0,0,0,3,0,0,0,0.21,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/egy_maulana_vikri,0
 ADAM ALIS SETYANO,PERSIB BANDUNG,7,5,438,MID,1,0,0,0,0,1,13,7,0,1,15,168,0,0,3,4,6,0,0.21,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/adam_alis_setyano,0
+IRAN DA CONCEICAO GONCALVES JUNIOR,MADURA UNITED FC,7,5,446,FWD,1,0,1,0,0,1,12,3,0,1,12,153,0,4,5,9,0,1,0.2,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/iran_da_conceicao_goncalves_junior,0
 RIZKY RIDHO RAMADHANI,PERSIJA JAKARTA,7,5,454,DEF,1,0,2,0,0,0,10,0,22,1,25,230,0,1,3,4,12,2,0.2,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rizky_ridho_ramadhani,0
 ARLYANSYAH ABDULMANAN,PERSIJA JAKARTA,8,7,457,FWD,1,0,0,0,0,0,13,4,0,1,0,0,0,2,5,4,0,0,0.2,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/arlyansyah_abdulmanan,0
 THOM JAN MARINUS HAYE,PERSIB BANDUNG,7,5,468,MID,1,0,2,0,0,2,0,19,4,1,0,264,0,5,4,2,10,2,0.19,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/thom_jan_marinus_haye,0
 JOSE PEDRO MAGALHAES VALENTE,PSIM YOGYAKARTA,6,6,476,MID,1,1,1,1,0,0,12,5,0,1,11,292,0,4,4,6,6,1,0.19,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jose_pedro__magalhaes__valente,0
 VASKO KALEZIC,PERSIJAP JEPARA,6,5,477,FWD,1,0,1,0,0,0,0,8,0,1,0,0,0,3,8,0,0,1,0.19,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/vasko_kalezic,0
-NERMIN HALJETA,PSIM YOGYAKARTA,7,5,506,FWD,1,0,0,0,0,0,0,2,0,1,0,0,0,1,3,0,0,0,0.18,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/nermin_haljeta,0
-JOHAN AHMAT FARIZI,AREMA FC,8,6,529,DEF,1,0,0,0,0,1,7,0,24,1,22,195,0,1,2,0,6,0,0.17,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/johan_ahmat_farizi,0
+NICK ANNA MARIA FRANCOIS KUIPERS,DEWA UNITED BANTEN FC,7,6,500,DEF,1,0,3,0,0,0,16,0,35,1,31,247,0,0,2,0,14,3,0.18,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/nick_anna_maria_francois_kuipers,0
+NERMIN HALJETA,PSIM YOGYAKARTA,8,5,511,FWD,1,0,0,0,0,0,0,0,0,1,0,0,0,1,3,0,0,0,0.18,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/nermin_haljeta,0
 MATHEUS DA CONCEIÇÃO NASCIMENTO,AREMA FC,7,6,537,MID,1,0,1,0,0,1,15,7,5,1,17,212,0,1,3,13,19,1,0.17,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/matheus_da_conceiÇÃo_nascimento,0
 GUSTAVO HENRIQUE BARBOSA FREIRE,PSS SLEMAN,8,6,550,FWD,1,0,1,0,0,4,0,9,0,1,0,0,0,4,5,5,0,1,0.16,5,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gustavo_henrique_barbosa_freire,0
 KEI HIROSE,JAVA UNITED FC,8,7,550,MID,1,0,0,0,0,2,10,6,0,1,14,201,0,2,1,0,12,0,0.16,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kei_hirose,0
 FABIO DA SILVA CALONEGO,PERSIJA JAKARTA,8,7,561,MID,1,0,1,0,0,0,22,6,0,1,20,383,0,3,5,0,16,1,0.16,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/fabio_da_silva_calonego,0
+JOHAN AHMAT FARIZI,AREMA FC,9,7,574,DEF,1,0,0,0,0,1,7,2,26,1,23,207,0,1,2,0,6,0,0.16,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/johan_ahmat_farizi,0
 KENJI MANANGAN NISHIOKA,ISENMULANG KALTENG FC,8,7,580,FWD,1,0,0,0,0,0,10,9,7,1,8,144,0,5,1,5,12,0,0.16,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kenji_manangan_nishioka,0
-RAFAEL WILLIAM STRUICK,DEWA UNITED BANTEN FC,8,6,584,FWD,1,0,1,0,0,0,11,7,0,1,9,129,0,2,6,3,8,1,0.15,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rafael_william_struick,0
 MUHAMMAD RAYHAN HANNAN,PERSIJA JAKARTA,8,6,591,MID,1,0,1,0,0,3,11,5,0,1,0,206,0,4,6,3,16,0,0.15,4,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_rayhan_hannan,0
 YAKOB SAYURI,JAVA UNITED FC,7,7,597,MID,1,0,1,0,0,1,11,11,9,1,23,176,0,2,6,0,14,1,0.15,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/yakob_sayuri,0
 RIYAN ARDIANSYAH,JAVA UNITED FC,8,7,621,DEF,1,0,2,0,0,1,0,5,8,1,18,239,1,3,0,2,9,2,0.14,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/riyan_ardiansyah,0
@@ -104,20 +104,23 @@ CHRISTOPHE NDUWARUGIRA,PSS SLEMAN,7,7,630,MID,1,0,1,0,0,0,23,7,30,1,31,312,0,3,1
 DENIS KOLINGER,PERSIJA JAKARTA,7,7,630,DEF,1,0,4,0,0,2,21,4,35,1,36,356,0,2,2,0,19,4,0.14,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/denis_kolinger,0
 JUAN FELIPE VILLA RUIZ,BORNEO FC SAMARINDA,7,7,630,MID,1,1,0,0,0,1,18,21,3,1,14,278,0,14,10,10,14,0,0.14,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/juan_felipe_villa_ruiz,0
 REMCO BALK,BALI UNITED FC,8,7,635,FWD,1,0,1,0,0,1,13,13,0,1,0,192,0,3,2,4,9,1,0.14,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/remco_balk,0
-D. S. SHEVA MARESCA AMAVISCA,PSIM YOGYAKARTA,8,8,646,MID,1,0,1,0,0,0,22,9,0,1,19,241,0,4,5,4,10,1,0.14,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/d._s._sheva_maresca_amavisca,0
-JORGE AMBROSIO MENDONÇA,MADURA UNITED FC,8,7,675,DEF,1,0,1,0,0,0,15,2,74,1,29,262,0,3,2,0,14,1,0.13,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jorge_ambrosio_mendonça,0
+RAFAEL WILLIAM STRUICK,DEWA UNITED BANTEN FC,9,7,649,FWD,1,0,1,0,0,0,11,7,0,1,9,0,0,4,6,4,10,1,0.14,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rafael_william_struick,0
 MOUSSA SIDIBE,BHAYANGKARA LAMPUNG FC,8,8,691,FWD,1,0,1,0,0,4,15,19,0,1,0,194,0,8,4,17,7,0,0.13,5,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/moussa_sidibe,0
 PATRICIO MARTIN MATRICARDI,PERSIB BANDUNG,8,8,691,DEF,1,0,1,0,0,0,23,0,37,1,32,400,0,2,2,2,15,1,0.13,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/patricio_martin_matricardi,0
 ZANADIN FARIZ,PERSIK KEDIRI,8,8,695,MID,1,0,1,0,0,0,33,8,7,1,19,359,0,2,2,14,18,1,0.13,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/zanadin_fariz,0
-DIEGO LUIZ LANDIS,AREMA FC,8,8,696,DEF,1,0,2,0,0,0,9,0,39,1,30,236,0,1,2,0,11,2,0.13,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/diego_luiz_landis,0
 DOUGLAS NONATO OLIVEIRA CRUZ,ISENMULANG KALTENG FC,8,8,713,DEF,1,1,2,0,0,0,11,0,24,1,29,234,0,3,1,2,16,2,0.13,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/douglas_nonato_oliveira_cruz,0
 JOSE ANTONIO RUIZ LOPEZ,PERSIJAP JEPARA,8,8,713,MID,1,1,2,0,0,0,17,13,0,1,16,205,0,4,5,9,8,2,0.13,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jose_antonio_ruiz_lopez,0
 MODOU MANNEH,ISENMULANG KALTENG FC,8,8,716,MID,1,0,1,0,0,0,18,5,0,1,10,157,0,4,3,3,17,1,0.13,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/modou_manneh,0
 GUSTAVO MORENO DE FRANCA,JAVA UNITED FC,8,8,720,DEF,1,0,2,0,0,0,7,0,57,1,23,309,0,5,2,0,7,2,0.12,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gustavo_moreno_de_franca,0
 IMANOL GARCIA LUGEA,PERSIK KEDIRI,8,8,720,MID,1,0,2,0,0,0,13,5,11,1,28,395,0,2,1,4,29,2,0.12,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/imanol_garcia_lugea,0
 YURAN FERNANDES ROCHA LOPES,PERSEBAYA SURABAYA,8,8,720,DEF,1,1,1,0,0,0,26,0,31,2,42,319,0,5,3,2,16,1,0.12,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/yuran_fernandes_rocha_lopes,1
+D. S. SHEVA MARESCA AMAVISCA,PSIM YOGYAKARTA,9,9,736,MID,1,0,2,0,0,0,25,10,0,1,21,263,0,6,5,4,12,2,0.12,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/d._s._sheva_maresca_amavisca,0
+DIEGO LUIZ LANDIS,AREMA FC,9,9,786,DEF,1,0,2,0,0,0,13,0,39,1,35,274,0,2,2,0,12,2,0.11,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/diego_luiz_landis,0
+NORBERTO EZEQUIEL VIDAL,PSIM YOGYAKARTA,9,9,786,FWD,1,0,2,0,0,1,9,10,0,1,17,239,0,7,11,4,0,2,0.11,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/norberto_ezequiel_vidal,0
+BRANDON MARSEL SCHEUNEMANN,MADURA UNITED FC,1,0,1,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 DIMAS JULIONO PAMUNGKAS,PERSIK KEDIRI,1,0,1,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 GINANJAR WAHYU RAMADHANI,BHAYANGKARA LAMPUNG FC,1,0,1,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
+M RISKI AFRISAL,MADURA UNITED FC,1,0,1,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 REYCREDO BEREMANDA BUKIT,PERSIJAP JEPARA,1,0,1,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 RIPAL WAHYUDI,DEWA UNITED BANTEN FC,1,0,1,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 RYAN KURNIA,BHAYANGKARA LAMPUNG FC,1,0,1,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
@@ -131,15 +134,13 @@ ADY EKO JAYANTO,PERSIK KEDIRI,3,0,4,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 MAOURI ANANDA YVES RAMLI SIMON,BALI UNITED FC,1,0,4,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/maouri_ananda_yves_ramli_simon,0
 FIGO DENNIS SAPUTRANANTO,PERSIJA JAKARTA,1,0,5,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 BAGAS ADI NUGROHO,BALI UNITED FC,1,0,6,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
-HAMZAH TITOFANI RIVALDY,AREMA FC,1,0,7,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MUHAMMAD INDRA FERI FARONI,ISENMULANG KALTENG FC,1,0,7,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 JAJANG MULYANA,PSS SLEMAN,1,0,8,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 NAJEEB ABU YAKUBU,GARUDAYAKSA FC,1,0,8,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 M. FARHAN SAVIOLA,DEWA UNITED BANTEN FC,2,0,9,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MUHAMMAD SALMAN ALFARID,PSS SLEMAN,1,0,9,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
-GHULAM FATKUR RAHMAN,PSIM YOGYAKARTA,1,0,11,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
-RICKI KAMBUAYA,DEWA UNITED BANTEN FC,1,0,11,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MOHAMMAD KHANAFI,PERSIK KEDIRI,1,0,12,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
+HAMZAH TITOFANI RIVALDY,AREMA FC,2,0,13,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MUH. DWIKY HARDIANSYAH,BORNEO FC SAMARINDA,1,0,14,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MUHAMMAD RIDHO,BORNEO FC SAMARINDA,1,0,14,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MUHAMMAD RIFAD MARASABESSY,BORNEO FC SAMARINDA,1,0,14,SUB_ONLY,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
@@ -155,6 +156,7 @@ CHARISMA FATHONI AM,PERSITA,1,0,21,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
 MOH. SIDIK SAIMIMA,GARUDAYAKSA FC,2,0,23,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MARKUS OTTO ALBERTI MADJAR,PSS SLEMAN,1,0,25,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 I MADE TITO WIRATAMA,BALI UNITED FC,5,0,27,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
+GHULAM FATKUR RAHMAN,PSIM YOGYAKARTA,2,0,30,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MUHAMMAD DIMAS DRAJAD,PSS SLEMAN,4,0,31,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_dimas_drajad,0
 NAZRIEL ALFARO SYAHDAN,PERSIB BANDUNG,1,0,31,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 BIL’ASQAN HI TENANG,PERSIJAP JEPARA,1,0,33,SUB_ONLY,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/bil’asqan_hi_tenang,0
@@ -169,7 +171,6 @@ VINICIUS DUARTE,JAVA UNITED FC,1,0,45,SUB_ONLY,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0
 MUHAMMAD FERARRI,BHAYANGKARA LAMPUNG FC,2,0,48,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MUH. REDZUAN FACHGI,BORNEO FC SAMARINDA,2,1,50,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 WAHYU SUBO SETO,BHAYANGKARA LAMPUNG FC,2,1,50,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
-IRFAN,PSIM YOGYAKARTA,2,0,52,SUB_ONLY,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,2,0,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/irfan,0
 M TAUFANY MUSLIHUDDIN,MADURA UNITED FC,3,1,53,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 RYUJI UTOMO PRABOWO,PERSITA,4,0,53,SUB_ONLY,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ryuji_utomo_prabowo,0
 AHMAD AGUNG SETIA BUDI,PSIM YOGYAKARTA,3,0,55,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
@@ -183,10 +184,12 @@ ARTHUR DE MOURA,BORNEO FC SAMARINDA,2,0,66,SUB_ONLY,0,0,0,0,0,2,0,0,0,0,0,0,0,1,
 DAMIANUS ADIMAN PUTRA,BHAYANGKARA LAMPUNG FC,2,1,66,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 M FAYRUSHI,ISENMULANG KALTENG FC,2,1,69,DEF,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 MUHAMMAD ISFANDYAR ABDILLAH,PSS SLEMAN,2,1,72,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_isfandyar_abdillah,0
-RIFQI RAY FARANDI,MADURA UNITED FC,3,0,74,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rifqi_ray_farandi,0
 RAMADHAN,ISENMULANG KALTENG FC,4,1,75,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ramadhan,0
 ANDIK VERMANSAH,GARUDAYAKSA FC,3,1,83,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/andik_vermansah,0
 SEPTIAN SATRIA BAGASKARA,GARUDAYAKSA FC,3,1,83,FWD,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
+IRFAN,PSIM YOGYAKARTA,3,0,84,SUB_ONLY,0,0,0,0,0,1,0,3,0,0,0,0,0,1,0,2,0,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/irfan,0
+RICKI KAMBUAYA,DEWA UNITED BANTEN FC,2,1,86,MID,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ricki_kambuaya,0
+RIFQI RAY FARANDI,MADURA UNITED FC,4,0,86,SUB_ONLY,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rifqi_ray_farandi,0
 RASYID ASSAHID BAKRI,PSM MAKASSAR,5,0,87,SUB_ONLY,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rasyid_assahid_bakri,0
 ANDHIKA RAMADHANI,PERSIK KEDIRI,1,1,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/andhika_ramadhani,0
 FITRUL DWI RUSTAPA,BALI UNITED FC,1,1,90,GK,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/fitrul_dwi_rustapa,0
@@ -206,17 +209,14 @@ FREDERIC INJAI,PSS SLEMAN,2,1,106,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0,
 ALFEANDRA DEWANGGA SANTOSA,AREMA FC,3,1,108,MID,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/alfeandra_dewangga_santosa,0
 JOSE PAULO RODRIGUEZ SANTAMARIA,PERSIJAP JEPARA,3,1,108,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 RAGNAR ANTHONIUS MARIA ORATMANGOEN,PERSIB BANDUNG,4,1,109,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ragnar_anthonius_maria_oratmangoen,0
-ALEXIS NAHUEL MESSIDORO,DEWA UNITED BANTEN FC,4,0,111,SUB_ONLY,0,0,1,0,0,1,0,9,0,0,0,0,0,0,0,0,0,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/alexis_nahuel_messidoro,0
 AJI KUSUMA,MADURA UNITED FC,4,1,117,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 FRETS LISTANTO BUTUAN,JAVA UNITED FC,5,1,119,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/frets_listanto_butuan,0
-MUHAMMAD IQBAL,PSIM YOGYAKARTA,4,2,121,FWD,0,0,0,0,0,0,0,5,0,0,0,0,0,0,2,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_iqbal,0
 I MADE ANDHIKA PRADANA WIJAYA,BHAYANGKARA LAMPUNG FC,4,2,127,DEF,0,0,1,0,0,0,0,2,4,0,0,0,0,0,1,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/i_made_andhika_pradana_wijaya,0
 SYAHRUL R LASINARI,PERSEBAYA SURABAYA,5,1,129,DEF,0,0,0,0,0,0,12,0,4,0,7,0,0,0,0,0,6,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/syahrul_r_lasinari,0
 CARLO PATRICK ARMIENTO,GARUDAYAKSA FC,2,2,130,FWD,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/carlo_patrick_armiento,0
 GALUH ARYANATA,ISENMULANG KALTENG FC,5,1,135,DEF,0,0,1,0,0,0,0,0,5,0,6,0,0,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/galuh_aryanata,0
 MUHAMMAD DAFFA SALMAN ZAHRAN SIDIK,PERSIK KEDIRI,6,0,136,SUB_ONLY,0,0,1,0,0,0,0,0,5,0,10,0,0,0,1,4,10,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_daffa_salman_zahran_sidik,0
 ARKHAN KAKA PUTRA PURWANTO,GARUDAYAKSA FC,4,1,137,FWD,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/arkhan_kaka_putra_purwanto,0
-MARVIN ANTONIO LORIA LEITON,PSIM YOGYAKARTA,4,1,137,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/marvin_antonio_loria_leiton,0
 SERGIO FABIAN EZEQUIEL AGUERO,PSM MAKASSAR,2,2,139,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/sergio_fabian_ezequiel_aguero,0
 M. ZULFAN DJIAULHAQ MUKTI,PERSITA,6,0,140,SUB_ONLY,0,0,1,0,0,1,8,1,4,0,7,0,0,0,1,1,0,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/m._zulfan_djiaulhaq_mukti,0
 JONATA FELIPE MACHADO,JAVA UNITED FC,2,1,141,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
@@ -236,6 +236,7 @@ RICKY PRATAMA,PERSEBAYA SURABAYA,6,2,170,FWD,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1
 HENHEN HERDIANA,PSM MAKASSAR,5,1,171,DEF,0,0,0,0,0,0,11,0,0,0,8,0,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/henhen_herdiana,0
 MUHAMAD FIRLI,JAVA UNITED FC,5,2,172,DEF,0,0,0,0,0,0,0,0,9,0,14,0,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhamad_firli,0
 AMAR RAYHAN BRKIC,BORNEO FC SAMARINDA,2,2,174,DEF,0,0,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/amar_rayhan_brkic,0
+ALEXIS NAHUEL MESSIDORO,DEWA UNITED BANTEN FC,5,1,176,MID,0,0,1,0,0,1,0,14,0,0,0,0,0,0,0,2,7,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/alexis_nahuel_messidoro,0
 DEDE SAPARI,MADURA UNITED FC,3,3,177,DEF,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,2,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/dede_sapari,0
 NENAD LALIC,PSM MAKASSAR,2,2,178,DEF,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,5,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/nenad_lalic,0
 CYRUS ASHKON MARGONO,JAVA UNITED FC,2,2,180,GK,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/cyrus_ashkon_margono,0
@@ -247,39 +248,39 @@ RUBEN LOPEZ HUESCA,BORNEO FC SAMARINDA,4,3,185,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
 BECKHAM PUTRA NUGRAHA,PERSIB BANDUNG,5,3,187,FWD,0,0,1,0,0,1,0,4,0,0,0,0,0,0,0,5,0,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/beckham_putra_nugraha,0
 GABRIEL DA SILVA OLIVEIRA,BORNEO FC SAMARINDA,6,1,190,MID,0,0,1,0,0,0,0,3,3,0,6,0,0,0,0,2,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gabriel_da_silva_oliveira,0
 DEDI KUSNANDAR,PERSIB BANDUNG,6,3,191,MID,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,8,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/dedi_kusnandar,0
-LEO GUNTARA,AREMA FC,7,2,192,DEF,0,0,0,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/leo_guntara,0
 LUCIANO GUAYCOCHEA,PERSIB BANDUNG,3,2,192,MID,0,0,2,0,0,0,0,0,0,0,10,0,0,0,0,0,0,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/luciano_guaycochea,0
 RACHMAT IRIANTO,PERSEBAYA SURABAYA,5,3,193,MID,0,0,2,0,0,1,0,0,2,0,6,0,0,0,0,0,0,2,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rachmat_irianto,0
 AHMAD RUSADI,MADURA UNITED FC,7,1,194,DEF,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ahmad_rusadi,0
 ZIDANE PRAMUDYA AFANDI,PERSIJAP JEPARA,5,1,194,DEF,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,6,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/zidane_pramudya_afandi,0
+MARVIN ANTONIO LORIA LEITON,PSIM YOGYAKARTA,5,2,195,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/marvin_antonio_loria_leiton,0
 STEFAN ASHKOVSKI,PSS SLEMAN,4,3,196,DEF,0,0,0,1,0,0,12,0,0,0,9,0,0,0,1,4,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/stefan_ashkovski,0
-ADY SETIAWAN,DEWA UNITED BANTEN FC,5,3,200,DEF,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ady_setiawan,0
 MUH. DZAKI ASRAF HUWAIDI,PERSIK KEDIRI,4,2,201,DEF,0,0,1,0,0,0,11,0,3,0,0,0,0,0,1,4,7,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muh._dzaki_asraf_huwaidi,0
 ARDA ALFAREZA,PSS SLEMAN,4,3,202,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 ILHAM RIO FAHMI,PERSIJA JAKARTA,4,2,204,DEF,0,0,1,0,0,0,0,0,5,0,9,0,0,0,0,0,10,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ilham_rio_fahmi,0
+MUHAMMAD IQBAL,PSIM YOGYAKARTA,5,3,206,FWD,0,0,1,0,0,0,0,5,0,0,0,0,0,2,2,3,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_iqbal,0
 FAHREZA SUDIN,JAVA UNITED FC,4,3,208,MID,0,0,1,0,0,0,0,3,0,0,0,0,0,3,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/fahreza_sudin,0
 DIOGO SA RAMALHO,PERSEBAYA SURABAYA,5,4,210,MID,0,0,1,0,0,0,0,5,0,0,0,0,0,0,0,2,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/diogo_sa_ramalho,0
-YUSAKU YAMADERA,PSIM YOGYAKARTA,4,3,211,DEF,0,0,1,0,0,0,6,0,8,0,0,104,0,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/yusaku_yamadera,0
-MUHAMMAD ALWI FADILAH,PSIM YOGYAKARTA,6,1,215,DEF,0,0,1,0,0,0,7,0,5,0,7,0,0,0,0,1,6,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_alwi_fadilah,0
-MOH. EDO FEBRIANSAH,DEWA UNITED BANTEN FC,6,2,223,DEF,0,0,0,0,0,1,0,4,5,0,14,0,0,2,0,3,0,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/moh._edo_febriansah,0
+MUHAMMAD ALWI FADILAH,PSIM YOGYAKARTA,7,1,220,DEF,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,6,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_alwi_fadilah,0
 ADRE ARIDO GEOVANI,ISENMULANG KALTENG FC,3,2,225,GK,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/adre_arido_geovani,0
+ADY SETIAWAN,DEWA UNITED BANTEN FC,6,3,225,DEF,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,,0
 KABLAN DAVY N'GOMA,BORNEO FC SAMARINDA,3,3,226,FWD,0,0,0,0,0,0,5,3,0,0,0,0,0,1,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kablan_davy_n'goma,0
 ADITTIA GIGIS HERMAWAN,GARUDAYAKSA FC,7,2,227,MID,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/adittia_gigis_hermawan,0
 ABDILLAH SHAFA ANDHIKA,ISENMULANG KALTENG FC,3,3,230,MID,0,0,0,0,0,0,0,3,0,0,10,0,0,0,1,0,6,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/abdillah_shafa_andhika,0
 DAMION ONANDI LOWE,DEWA UNITED BANTEN FC,4,2,232,DEF,0,0,1,0,0,0,0,0,19,0,14,162,0,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/damion_onandi_lowe,0
 MALIK RISALDI,PERSEBAYA SURABAYA,5,3,235,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,9,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/malik_risaldi,0
 TIM CHARLES PIETER RECEVEUR,BALI UNITED FC,5,2,236,MID,0,0,2,1,0,1,13,0,3,0,0,0,0,0,0,0,6,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/tim_charles_pieter_receveur,0
+LEO GUNTARA,AREMA FC,8,2,237,DEF,0,0,0,0,0,0,0,2,10,0,0,0,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/leo_guntara,0
 BRANDON JAMES WILSON,BALI UNITED FC,3,3,238,MID,0,0,1,0,0,0,0,0,17,0,6,0,0,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/brandon_james_wilson,0
-ARDI IDRUS,MADURA UNITED FC,4,4,239,DEF,0,0,1,0,0,0,6,0,4,0,10,0,0,0,0,3,7,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ardi_idrus,0
 ARIF SETIAWAN,GARUDAYAKSA FC,3,3,240,DEF,0,0,2,0,0,0,0,0,0,0,9,0,0,0,0,0,0,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/arif_setiawan,0
+MOH. EDO FEBRIANSAH,DEWA UNITED BANTEN FC,7,2,248,DEF,0,0,1,0,0,2,9,6,5,0,14,0,0,2,0,3,0,1,0.0,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/moh._edo_febriansah,0
 JOSE CLEYLTON DE MORAIS DOS SANTOS,JAVA UNITED FC,4,3,250,DEF,0,0,0,0,0,0,0,0,15,0,15,119,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jose_cleylton_de_morais_dos_santos,0
+ARDI IDRUS,MADURA UNITED FC,5,4,256,DEF,0,0,1,0,0,0,6,0,4,0,11,0,0,0,0,3,7,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ardi_idrus,0
 SADDIL RAMDANI,PERSEBAYA SURABAYA,6,2,262,FWD,0,0,0,0,0,0,0,10,0,0,0,88,0,5,0,6,10,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/saddil_ramdani,0
 HOKKY CARAKA BINTANG BRILLIANT,PERSITA,7,2,264,FWD,0,0,2,0,0,2,0,5,0,0,0,0,0,3,2,0,0,3,0.0,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/hokky_caraka_bintang_brilliant,0
 LUCAS GAMA MOREIRA,PSS SLEMAN,4,3,266,DEF,0,0,0,0,0,0,0,0,17,0,12,113,0,2,0,0,7,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/lucas_gama_moreira,0
 RAHMAT ARJUNA RESKI,BALI UNITED FC,5,4,266,FWD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,10,8,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rahmat_arjuna_reski,0
 RAHMATSHOH RAHMATZODA,PERSIJAP JEPARA,4,4,266,MID,0,0,0,0,0,0,0,0,0,0,9,102,0,0,1,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rahmatshoh_rahmatzoda,0
 THOMAS ANTON RUDOLPH LAM,BALI UNITED FC,4,3,266,DEF,0,0,2,1,0,0,0,0,10,0,10,191,0,0,0,0,0,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/thomas_anton_rudolph_lam,0
-HANSAMU YAMA PRANATA,AREMA FC,4,3,270,DEF,0,0,0,0,0,0,8,0,16,0,7,0,0,0,0,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/hansamu_yama_pranata,0
 KAKANG RUDIANTO,PERSIB BANDUNG,4,3,270,DEF,0,0,0,0,0,0,12,0,7,0,10,0,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kakang_rudianto,0
 M FAHRI,BHAYANGKARA LAMPUNG FC,3,3,270,GK,0,0,0,0,2,0,15,0,0,0,0,0,3,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/m_fahri,0
 RIDHO SYUHADA PUTRA,JAVA UNITED FC,7,2,272,MID,0,0,0,0,0,0,8,5,0,0,11,105,0,0,3,0,4,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ridho_syuhada_putra,0
@@ -294,20 +295,19 @@ FRENGKY DEANER MISSA,BHAYANGKARA LAMPUNG FC,6,2,297,DEF,0,0,0,0,0,1,0,2,8,0,9,14
 RYO MATSUMURA,GARUDAYAKSA FC,6,4,297,MID,0,0,1,0,0,0,0,6,0,0,0,0,0,0,1,3,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ryo_matsumura,0
 MOUSSA BAGAYOKO,PSS SLEMAN,4,4,298,FWD,0,0,1,0,0,1,16,3,0,0,11,126,0,5,0,2,12,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/moussa_bagayoko,0
 FIRMAN RAMADHAN,ISENMULANG KALTENG FC,4,3,299,DEF,0,0,0,0,0,0,6,0,10,0,15,0,0,3,1,2,5,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/firman_ramadhan,0
+YUSAKU YAMADERA,PSIM YOGYAKARTA,5,4,301,DEF,0,0,1,0,0,1,9,3,9,0,12,142,0,0,0,0,0,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/yusaku_yamadera,0
+HANSAMU YAMA PRANATA,AREMA FC,5,4,315,DEF,0,0,0,0,0,0,8,0,16,0,7,0,0,0,0,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/hansamu_yama_pranata,0
 LUCAS HENRIQUE FRIGERI,ISENMULANG KALTENG FC,4,4,315,GK,0,0,0,0,2,0,8,0,0,0,0,0,17,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/lucas_henrique_frigeri,0
-LUIZ MARCELO MORAIS DOS REIS,MADURA UNITED FC,6,4,318,FWD,0,0,0,0,0,2,0,4,0,0,0,0,0,3,0,4,6,0,0.0,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/luiz_marcelo_morais_dos_reis,0
 DANIJEL LONCAR,PERSIB BANDUNG,5,4,321,DEF,0,0,0,0,0,0,10,0,8,0,14,187,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/danijel_loncar,0
 WEYDERSON DENILSON DOS SANTOS XAVIER NOVAES,PERSIJAP JEPARA,6,4,322,FWD,0,0,0,0,0,0,8,4,0,0,0,0,0,2,3,6,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/weyderson_denilson_dos_santos_xavier_novaes,0
-RAKA CAHYANA RIZKY,PSIM YOGYAKARTA,8,4,325,DEF,0,0,0,0,0,1,0,4,12,0,0,0,0,1,0,0,7,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/raka_cahyana_rizky,0
 MUHAMMAD ADZIKRY FADLILLAH,PERSIJAP JEPARA,5,4,329,MID,0,0,1,0,0,0,8,4,0,0,8,0,0,0,0,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_adzikry_fadlillah,0
-ADRIAN DALMAU VAQUER,PSIM YOGYAKARTA,5,4,330,FWD,0,0,0,0,0,0,0,5,0,0,0,0,0,4,1,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/adrian_dalmau_vaquer,0
 I KADEK AGUNG WIDNYANA PUTRA,BALI UNITED FC,7,4,331,MID,0,0,0,0,0,3,11,6,0,0,8,201,0,2,0,3,0,0,0.0,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/i_kadek_agung_widnyana_putra,0
 ADILSON GANCHO DA SILVA,ISENMULANG KALTENG FC,4,4,338,FWD,0,0,0,0,0,0,0,4,0,0,0,0,0,2,3,2,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/adilson_gancho_da_silva,0
 ONDREJ RUDZAN,PSIM YOGYAKARTA,5,4,338,DEF,0,0,1,0,0,0,8,0,6,0,12,128,0,0,0,2,10,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ondrej_rudzan,0
 KOMANG TEGUH TRISNANDA,BORNEO FC SAMARINDA,5,5,351,DEF,0,0,0,0,0,0,11,0,7,0,14,129,0,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/komang_teguh_trisnanda,0
 FILIP STAMENKOVIC,GARUDAYAKSA FC,4,4,352,DEF,0,0,1,0,0,0,0,0,19,0,13,135,0,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/filip_stamenkovic,0
 MOHAMMAD SAIFUL DJOGE,PSS SLEMAN,6,3,352,DEF,0,0,0,0,0,1,15,0,5,0,6,114,0,0,0,0,0,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/mohammad_saiful_djoge,0
-RIYATNO ABIYOSO,PSIM YOGYAKARTA,6,5,359,FWD,0,0,0,0,0,0,0,3,5,0,8,0,0,1,2,10,6,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/riyatno_abiyoso,0
+RIYATNO ABIYOSO,PSIM YOGYAKARTA,6,5,359,FWD,0,0,0,0,0,0,0,3,5,0,0,0,0,1,2,10,6,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/riyatno_abiyoso,0
 CHRISTIAN GOMIS,JAVA UNITED FC,4,4,360,DEF,0,0,1,0,0,0,0,0,28,0,10,187,0,0,0,4,10,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/christian_gomis,0
 ERNANDO ARI SUTARYADI,PERSEBAYA SURABAYA,4,4,360,GK,0,0,0,0,2,0,12,0,0,0,0,0,8,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ernando_ari_sutaryadi,0
 FERRE MURARI,BHAYANGKARA LAMPUNG FC,6,5,360,DEF,0,0,1,0,0,0,9,0,10,0,12,0,0,0,0,2,8,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ferre_murari,0
@@ -321,17 +321,18 @@ FRANCISCO ISRAEL RIVERA DAVALOS,PERSEBAYA SURABAYA,5,4,368,MID,0,0,1,0,0,1,0,10,
 IKWAN ALI TANAMAL,PERSIB BANDUNG,5,4,371,DEF,0,0,0,0,0,1,18,0,8,0,25,186,0,0,0,0,9,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ikwan_ali_tanamal,0
 WAHYU PRASETYO,GARUDAYAKSA FC,5,4,372,DEF,0,0,1,0,0,1,7,0,11,0,27,197,0,0,2,5,9,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/wahyu_prasetyo,0
 FIRZA ANDIKA,BHAYANGKARA LAMPUNG FC,5,4,386,DEF,0,0,1,0,0,0,16,0,8,0,16,215,0,2,0,5,13,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/firza_andika,0
-MUHAMMAD ALFHAREZZI BUFFON,DEWA UNITED BANTEN FC,8,3,387,DEF,0,0,0,0,0,0,9,6,5,0,13,0,1,3,0,5,6,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_alfharezzi_buffon,0
 MUHAMAD BUYUNG ISMU LESSY,PERSIJAP JEPARA,8,4,390,DEF,0,0,0,0,0,0,9,4,13,0,0,90,1,2,0,1,12,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhamad_buyung_ismu_lessy,0
+LUIZ MARCELO MORAIS DOS REIS,MADURA UNITED FC,7,5,391,FWD,0,0,0,0,0,3,0,9,0,0,0,0,0,4,1,5,8,0,0.0,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/luiz_marcelo_morais_dos_reis,0
 REVA ADI UTAMA,BORNEO FC SAMARINDA,6,4,391,DEF,0,0,1,0,0,0,12,4,12,0,19,191,0,0,0,4,11,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/reva_adi_utama,0
 RIO HARDIAWAN,PSIM YOGYAKARTA,8,4,395,DEF,0,0,0,0,0,0,0,0,6,0,0,151,0,0,0,1,10,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rio_hardiawan,0
-TAUFIK HIDAYAT,MADURA UNITED FC,6,4,396,DEF,0,0,0,0,0,0,0,0,11,0,10,111,0,0,0,2,9,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/taufik_hidayat,0
 MOUSSA DIARRA,BORNEO FC SAMARINDA,6,4,403,FWD,0,0,1,0,0,1,0,0,0,0,0,0,0,9,3,5,5,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/moussa_diarra,0
 YAYA SOGODOGO,PERSIJAP JEPARA,8,4,404,FWD,0,0,2,0,0,1,8,8,0,0,0,0,0,9,5,4,7,2,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/yaya_sogodogo,0
 ROSEMBERGNE DA SILVA,PERSIB BANDUNG,8,4,406,FWD,0,0,0,0,0,0,0,12,0,0,0,159,0,4,0,11,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rosembergne_da_silva,0
 GUFRONI AL MA’RUF,ISENMULANG KALTENG FC,7,5,408,DEF,0,0,1,0,0,0,10,0,8,0,0,135,0,3,0,0,8,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gufroni_al_ma’ruf,0
 AEP NURSOFYAN,PERSITA,7,5,411,DEF,0,0,0,0,0,1,10,0,6,0,14,0,0,0,0,0,9,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/aep_nursofyan,0
 NAJEEB ABU YAKUBU,PERSIJAP JEPARA,5,5,413,DEF,0,0,1,0,0,0,14,4,10,0,18,174,0,0,0,3,10,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/najeeb_abu_yakubu,0
+ADRIAN DALMAU VAQUER,PSIM YOGYAKARTA,6,5,415,FWD,0,0,0,0,0,0,7,5,0,0,0,0,0,4,1,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/adrian_dalmau_vaquer,0
+RAKA CAHYANA RIZKY,PSIM YOGYAKARTA,9,5,415,DEF,0,0,0,0,0,1,0,5,14,0,13,0,0,0,0,2,10,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/raka_cahyana_rizky,0
 DONY TRI PAMUNGKAS,PERSIJA JAKARTA,5,5,417,DEF,0,0,2,1,0,2,10,10,10,0,6,201,0,0,0,5,0,2,0.0,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/dony_tri_pamungkas,0
 KADEK AREL PRIYATNA,BALI UNITED FC,6,5,418,DEF,0,0,1,1,0,0,14,0,22,0,19,271,0,2,0,2,7,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kadek_arel_priyatna,0
 ALEKSANDAR BUSNIC,GARUDAYAKSA FC,5,5,423,MID,0,0,1,1,0,1,15,2,6,0,14,163,0,2,0,2,10,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/aleksandar_busnic,0
@@ -343,11 +344,11 @@ MUH. MUFLI HIDAYAT,PSM MAKASSAR,7,6,448,DEF,0,0,3,0,0,0,19,3,18,0,16,145,0,2,2,0
 AWAN SETHO RAHARJO,BHAYANGKARA LAMPUNG FC,5,5,450,GK,0,0,0,0,1,0,11,0,0,0,0,0,9,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/awan_setho_raharjo,0
 PAULO RICARDO FERREIRA,GARUDAYAKSA FC,5,5,450,DEF,0,0,1,0,0,1,9,2,26,0,24,229,0,0,0,0,7,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/paulo_ricardo_ferreira,0
 VANDER TAVARES SILVA,JAVA UNITED FC,5,5,450,MID,0,0,0,0,0,0,10,0,8,0,19,197,0,0,0,0,9,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/vander_tavares_silva,0
+MUHAMMAD ALFHAREZZI BUFFON,DEWA UNITED BANTEN FC,9,4,452,DEF,0,0,0,0,0,0,9,6,7,0,17,142,1,3,0,5,8,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_alfharezzi_buffon,0
 SAMUEL OFORI,PERSIJAP JEPARA,6,5,452,DEF,0,0,1,0,0,0,12,0,30,0,17,148,0,0,0,0,11,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/samuel_ofori,0
 CHRISTIAN FRYDEK,GARUDAYAKSA FC,6,5,454,MID,0,0,0,0,0,2,10,9,0,0,0,165,0,2,5,2,0,0,0.0,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/christian_frydek,0
 NEHAR SADIKI,BHAYANGKARA LAMPUNG FC,8,5,460,DEF,0,0,0,0,0,0,17,0,28,0,39,283,0,3,0,0,12,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/nehar_sadiki,0
-GIOVANI JORIM HERZON DACOSTA NUMBERI,MADURA UNITED FC,6,5,463,DEF,0,0,0,0,0,0,8,8,10,0,12,172,0,3,0,3,18,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/giovani_jorim_herzon_dacosta_numberi,0
-ALTALARIQ ERFA AQSAL BALLAH,DEWA UNITED BANTEN FC,7,6,468,DEF,0,0,1,0,0,0,21,9,16,0,21,271,1,0,0,4,15,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/altalariq_erfa_aqsal_ballah,0
+TAUFIK HIDAYAT,MADURA UNITED FC,7,5,469,DEF,0,0,1,0,0,0,0,0,14,0,19,138,0,0,0,2,9,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/taufik_hidayat,0
 I PUTU GEDE JUNI ANTARA,BHAYANGKARA LAMPUNG FC,6,5,477,DEF,0,0,2,0,0,0,0,0,21,0,22,170,0,0,0,0,0,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/i_putu_gede_juni_antara,0
 RAFAEL RIBEIRO ALVES,ISENMULANG KALTENG FC,6,6,482,DEF,0,0,0,0,0,0,0,0,35,0,18,130,1,1,0,0,9,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/rafael_ribeiro_alves,0
 ADITYA WARMAN,BORNEO FC SAMARINDA,7,6,483,MID,0,0,1,0,0,1,18,6,0,0,14,219,0,2,0,2,14,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/aditya_warman,0
@@ -355,30 +356,29 @@ RAHMAT HIDAYAT,PERSIJAP JEPARA,6,5,483,DEF,0,0,0,0,0,0,13,3,9,0,22,168,0,0,0,2,1
 WAHYUDI SETIAWAN HAMISI,PERSITA,7,7,490,MID,0,0,1,0,0,0,12,0,11,0,21,93,0,0,1,0,20,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/wahyudi_setiawan_hamisi,0
 GLEDSON PAIXAO DA SILVA,PERSEBAYA SURABAYA,8,5,491,MID,0,0,1,0,0,1,17,0,4,0,24,272,0,9,2,4,20,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/gledson_paixao_da_silva,0
 ELIANO JOHANNES REIJNDERS,PERSIB BANDUNG,6,5,495,DEF,0,0,0,0,0,0,13,3,0,0,0,227,0,0,0,3,11,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/eliano_johannes_reijnders,0
-WALISSON MOREIRA FARIAS MAIA,AREMA FC,6,6,495,DEF,0,0,0,0,0,0,0,0,36,0,23,156,0,1,0,1,8,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/walisson_moreira_farias_maia,0
 ABRIZAL UMANAILO,PERSIJAP JEPARA,7,7,497,FWD,0,0,2,0,0,0,0,7,8,0,9,98,0,2,0,0,11,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/abrizal_umanailo,0
-ARKHAN FIKRI,AREMA FC,8,5,499,MID,0,0,0,0,0,0,11,6,0,0,15,227,0,0,0,2,17,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/arkhan_fikri,0
 KRISNA BAYU OTTO KARTIKA,PERSIK KEDIRI,7,6,499,MID,0,0,1,0,0,1,13,4,0,0,8,124,0,4,0,0,0,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/krisna_bayu_otto_kartika,0
 KEVIN GOMES DE OLIVERA,PSS SLEMAN,8,5,502,DEF,0,0,0,1,0,0,12,4,15,0,17,174,0,0,0,4,8,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kevin_gomes_de_olivera,0
 TONI FIRMANSYAH,PERSEBAYA SURABAYA,8,5,504,MID,0,0,2,0,0,1,27,13,4,0,15,197,0,3,2,2,14,2,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/toni_firmansyah,0
-ROBERTO PIMENTA VINAGRE FILHO,AREMA FC,6,6,519,MID,0,0,1,0,0,0,11,0,12,0,32,212,0,0,1,1,22,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/roberto_pimenta_vinagre_filho,0
 YANCE SAYURI,JAVA UNITED FC,6,6,521,DEF,0,0,0,0,0,0,11,5,9,0,24,239,0,3,2,0,11,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/yance_sayuri,0
 RIKO SIMANJUNTAK,PSS SLEMAN,8,7,523,MID,0,0,1,0,0,0,13,17,4,0,9,187,0,3,0,6,11,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/riko_simanjuntak,0
 KERIM MEMIJA,PERSIJA JAKARTA,8,6,527,DEF,0,0,0,0,0,3,14,11,4,0,18,268,0,0,0,3,19,0,0.0,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kerim_memija,0
 JORGE MEURER BARTHOLDY,JAVA UNITED FC,6,6,540,GK,0,0,1,0,1,0,14,0,0,0,0,126,22,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jorge_meurer_bartholdy,0
-MUHAMMAD ADI SATRYO,AREMA FC,6,6,540,GK,0,0,0,0,1,0,11,0,4,0,0,0,29,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_adi_satryo,0
 PEDRO CARACOCI DE OLIVEIRA,PSS SLEMAN,6,6,540,GK,0,0,0,0,1,0,12,0,0,0,0,149,24,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/pedro_caracoci_de_oliveira,0
-JEAN MANGABEIRA DA SILVA,DEWA UNITED BANTEN FC,7,7,545,MID,0,0,2,0,0,0,16,0,21,0,26,280,0,3,2,0,19,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jean_mangabeira_da_silva,0
+GIOVANI JORIM HERZON DACOSTA NUMBERI,MADURA UNITED FC,7,6,553,DEF,0,0,0,0,0,0,10,10,11,0,16,211,0,4,0,3,19,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/giovani_jorim_herzon_dacosta_numberi,0
+ALTALARIQ ERFA AQSAL BALLAH,DEWA UNITED BANTEN FC,8,7,558,DEF,0,0,1,0,0,0,23,10,16,0,24,314,1,0,0,4,18,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/altalariq_erfa_aqsal_ballah,0
 LUKA BULATOVIC,PSM MAKASSAR,7,6,566,FWD,0,0,0,0,0,2,0,5,4,0,10,101,0,2,2,1,6,0,0.0,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/luka_bulatovic,0
 ARIEF CATUR PAMUNGKAS,PERSEBAYA SURABAYA,8,7,572,DEF,0,0,0,0,0,0,17,4,11,0,7,186,0,3,0,7,13,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/arief_catur_pamungkas,0
 DION WILHELMUS EDDY MARKX,PERSITA,7,7,585,DEF,0,0,2,0,0,0,6,0,22,0,20,182,1,1,0,3,5,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/dion_wilhelmus_eddy_markx,0
+WALISSON MOREIRA FARIAS MAIA,AREMA FC,7,7,585,DEF,0,0,0,0,0,0,0,0,37,0,28,185,0,1,0,1,12,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/walisson_moreira_farias_maia,0
+ARKHAN FIKRI,AREMA FC,9,6,589,MID,0,0,1,0,0,0,13,6,0,0,16,268,0,0,0,2,19,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/arkhan_fikri,0
 FRANCISCO PEREIRA CARNEIRO,PERSIK KEDIRI,8,8,597,DEF,0,0,4,0,0,2,15,3,24,0,27,293,0,0,0,0,15,4,0.0,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/francisco_pereira_carneiro,0
+ROBERTO PIMENTA VINAGRE FILHO,AREMA FC,7,7,603,MID,0,0,1,0,0,0,14,0,12,0,36,263,0,0,1,1,26,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/roberto_pimenta_vinagre_filho,0
 VINICIUS FERREIRA DE JESUS,ISENMULANG KALTENG FC,8,7,611,FWD,0,0,2,0,0,2,0,8,3,0,0,146,0,6,0,6,0,2,0.0,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/vinicius_ferreira_de_jesus,0
 ALDO GERALDO MANUEL MONTEIRO,BORNEO FC SAMARINDA,7,7,616,GK,0,0,1,0,2,0,11,0,0,0,0,138,16,0,0,0,0,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/aldo_geraldo_manuel_monteiro,0
 DUSAN LAGATOR,PSM MAKASSAR,7,7,619,DEF,0,0,1,1,0,0,25,3,38,0,32,277,0,2,0,4,22,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/dusan_lagator,0
 ARDI RAMDANI,ISENMULANG KALTENG FC,7,7,623,DEF,0,0,2,0,0,0,11,3,18,0,24,174,0,0,0,2,17,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ardi_ramdani,0
 MARIO JARDEL,PERSITA,7,7,623,DEF,0,0,1,0,0,1,14,3,22,0,27,163,0,0,1,1,10,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/mario_jardel,0
-ACHMAD MAULANA SYARIF,AREMA FC,8,8,625,DEF,0,0,2,0,0,0,17,3,25,0,19,202,0,2,0,7,21,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/achmad_maulana_syarif,0
 ALTHAF INDIE ALRIZKY,PERSIK KEDIRI,8,7,625,DEF,0,0,0,0,0,0,13,3,11,0,17,213,0,2,0,6,16,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/althaf_indie_alrizky,0
 ALOISIO SOARES NETO,PSM MAKASSAR,7,7,627,DEF,0,0,0,0,0,0,24,5,21,0,30,266,0,0,2,4,14,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/aloisio_soares_neto,0
 IGOR CARREIRA RODRIGUES,PERSITA,7,7,628,GK,0,0,0,0,0,0,18,0,9,0,0,175,28,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/igor_carreira_rodrigues,0
@@ -390,31 +390,33 @@ JAVLON GUSEYNOV,PERSITA,7,7,630,DEF,0,0,2,0,0,0,14,1,44,0,27,228,0,1,0,0,10,2,0.
 JOSE WALBER MOTA DE AMORIM,PERSEBAYA SURABAYA,7,7,630,DEF,0,0,1,0,0,0,24,0,32,0,20,266,0,0,2,0,7,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jose_walber_mota__de_amorim,0
 MIKE HAUPTMEIJER,BALI UNITED FC,7,7,630,GK,0,0,0,0,1,0,22,0,7,0,10,222,30,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/mike_hauptmeijer,0
 MOCH. SENDRI JOHANSAH,PERSIJAP JEPARA,7,7,630,GK,0,0,0,1,0,0,21,0,8,0,7,132,31,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/moch._sendri_johansah,0
-MYEONGSEOK KO,DEWA UNITED BANTEN FC,7,7,630,DEF,0,0,0,0,0,0,25,3,36,0,27,400,2,3,0,0,8,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/myeongseok_ko,0
-SONNY RICARDO MARCIANO STEVENS,DEWA UNITED BANTEN FC,7,7,630,GK,0,0,0,0,1,0,16,0,2,0,0,191,15,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/sonny_ricardo_marciano_stevens,0
+MUHAMMAD ADI SATRYO,AREMA FC,7,7,630,GK,0,0,0,0,1,0,11,0,4,0,0,0,37,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muhammad_adi_satryo,0
+JEAN MANGABEIRA DA SILVA,DEWA UNITED BANTEN FC,8,8,635,MID,0,0,2,0,0,0,19,0,24,0,29,324,0,4,2,0,20,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jean_mangabeira_da_silva,0
 JUNHEONG PARK,PERSIK KEDIRI,8,8,638,DEF,0,0,1,0,0,0,25,0,29,0,26,313,0,3,0,3,11,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/junheong_park,0
 BRAYEN PONDAAG,ISENMULANG KALTENG FC,8,8,649,MID,0,0,2,0,0,0,15,3,10,0,22,202,0,0,1,2,16,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/brayen_pondaag,0
 SERGIO CHICA VILLARES,PERSIJAP JEPARA,8,7,649,DEF,0,0,1,0,0,0,8,0,44,0,26,269,0,2,0,1,6,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/sergio_chica_villares,0
 MUH. RIZKY EKA PRATAMA,PSM MAKASSAR,8,8,651,FWD,0,0,2,0,0,1,17,11,0,0,10,113,0,7,2,25,5,2,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/muh._rizky_eka_pratama,0
-HUGO GOMES DOS SANTOS SILVA,MADURA UNITED FC,8,8,682,MID,0,0,2,0,0,3,31,9,9,0,17,340,0,3,2,3,12,2,0.0,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/hugo_gomes_dos_santos_silva,0
-ILHAM SYAH,MADURA UNITED FC,8,8,685,MID,0,0,1,0,0,1,21,3,12,0,28,234,0,2,2,2,16,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ilham_syah,0
 CLEBERSON MARTINS DE SOUZA,PSS SLEMAN,8,8,696,DEF,0,0,1,0,0,0,12,3,49,1,39,317,0,3,1,0,12,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/cleberson_martins_de_souza,1
-FRANCO GASTON RAMOS MINGO,PSIM YOGYAKARTA,8,8,697,DEF,0,0,1,0,0,0,23,0,46,0,46,370,0,6,0,0,15,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/franco_gaston_ramos_mingo,0
 MAURICIO ANDRES VERA,BHAYANGKARA LAMPUNG FC,8,8,699,MID,0,0,1,0,0,1,25,9,5,0,20,330,0,0,4,2,12,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/mauricio_andres_vera,0
 KEVIN LEONEL SIBILLE,BHAYANGKARA LAMPUNG FC,8,8,703,DEF,0,0,1,0,0,0,17,0,20,0,33,399,0,2,3,0,14,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/kevin_leonel_sibille,0
 THEO FILLO BARTOLOMEY DACOSTA NUMBERI,GARUDAYAKSA FC,8,8,703,MID,0,0,1,0,0,1,23,3,10,0,26,406,0,0,0,3,16,0,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/theo_fillo_bartolomey_dacosta_numberi,0
 RICKY FAJRIN SAPUTRA,BALI UNITED FC,8,8,708,DEF,0,0,2,0,0,0,28,7,16,0,42,507,0,2,0,4,16,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ricky_fajrin_saputra,0
+ACHMAD MAULANA SYARIF,AREMA FC,9,9,715,DEF,0,0,2,0,0,0,21,3,28,0,21,234,0,2,0,9,26,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/achmad_maulana_syarif,0
 JEFFERSON JUNIO ANTONIO DA SILVA,PERSEBAYA SURABAYA,8,8,715,DEF,0,0,2,0,0,2,24,21,12,0,41,376,0,3,0,0,12,2,0.0,2,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/jefferson_junio_antonio_da_silva,0
-NORBERTO EZEQUIEL VIDAL,PSIM YOGYAKARTA,8,8,715,FWD,0,0,1,0,0,1,9,10,0,0,15,227,0,7,9,4,0,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/norberto_ezequiel_vidal,0
 RADOVAN PANKOV,PERSIJA JAKARTA,8,8,715,DEF,0,0,3,0,0,0,16,0,29,0,32,421,0,0,0,4,19,3,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/radovan_pankov,0
-ANGGA SAPUTRO,MADURA UNITED FC,8,8,720,GK,0,0,0,0,3,0,14,0,0,0,0,177,26,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/angga_saputro,0
-CAHYA SUPRIADI,PSIM YOGYAKARTA,8,8,720,GK,0,0,0,0,1,0,20,0,8,0,11,167,24,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/cahya_supriadi,0
 DOMINIK HOLEC,GARUDAYAKSA FC,8,8,720,GK,0,0,2,0,0,0,13,0,4,0,0,154,24,0,0,0,0,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/dominik_holec,0
 DOMINIKUS DION OKTAWIAN WIBOWO,PSS SLEMAN,8,8,720,MID,0,0,2,0,0,0,28,0,7,0,21,287,0,0,0,10,20,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/dominikus_dion_oktawian_wibowo,0
-JOHANNES DANIEL MARIA VAN DER AVERT,PSIM YOGYAKARTA,8,8,720,DEF,0,0,0,0,0,0,16,0,30,0,39,371,0,0,0,0,5,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/johannes_daniel_maria_van_der_avert,0
 LEONARDO SILVA LELIS,ISENMULANG KALTENG FC,8,8,720,DEF,0,0,0,0,0,0,7,0,50,0,29,224,0,3,0,0,6,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/leonardo_silva_lelis,0
 MARCELO - AMADO DJALO TARITOLAY,PERSIK KEDIRI,8,8,720,DEF,0,0,4,0,0,0,23,4,26,0,46,437,0,4,2,3,9,4,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/marcelo_-_amado_djalo_taritolay,0
+MYEONGSEOK KO,DEWA UNITED BANTEN FC,8,8,720,DEF,0,0,0,0,0,0,30,3,42,0,30,456,2,3,0,0,8,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/myeongseok_ko,0
 NADEO ARGA WINATA,PERSIJA JAKARTA,8,8,720,GK,0,0,0,0,3,0,16,0,5,0,0,159,29,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/nadeo_arga_winata,0
-PEDRO FILIPE TINOCO MONTEIRO,MADURA UNITED FC,8,8,720,DEF,0,0,2,0,0,0,13,2,49,0,39,353,0,0,0,0,6,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/pedro_filipe_tinoco_monteiro,0
+SONNY RICARDO MARCIANO STEVENS,DEWA UNITED BANTEN FC,8,8,720,GK,0,0,0,0,1,0,18,0,3,0,0,210,17,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/sonny_ricardo_marciano_stevens,0
 TIM HENRI VICTOR GEYPENS,BALI UNITED FC,8,8,720,DEF,0,0,1,0,0,0,30,4,19,0,48,599,0,0,0,17,32,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/tim_henri_victor_geypens,0
 VICTOR LUIZ PRESTES FILHO,PSM MAKASSAR,8,8,720,DEF,0,0,1,0,0,0,28,7,13,0,31,258,0,2,2,8,21,1,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/victor_luiz_prestes_filho,0
+HUGO GOMES DOS SANTOS SILVA,MADURA UNITED FC,9,9,772,MID,0,0,3,0,0,3,31,11,11,0,20,377,0,4,5,3,12,3,0.0,3,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/hugo_gomes_dos_santos_silva,0
+ILHAM SYAH,MADURA UNITED FC,9,9,775,MID,0,0,1,0,0,1,21,3,15,0,28,267,0,3,2,2,17,1,0.0,1,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/ilham_syah,0
+FRANCO GASTON RAMOS MINGO,PSIM YOGYAKARTA,9,9,787,DEF,0,0,2,0,0,0,24,0,50,0,50,397,0,6,1,0,16,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/franco_gaston_ramos_mingo,0
+ANGGA SAPUTRO,MADURA UNITED FC,9,9,810,GK,0,0,0,0,4,0,16,0,0,0,0,190,28,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/angga_saputro,0
+CAHYA SUPRIADI,PSIM YOGYAKARTA,9,9,810,GK,0,0,0,0,1,0,22,0,11,0,13,181,28,0,0,0,0,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/cahya_supriadi,0
+JOHANNES DANIEL MARIA VAN DER AVERT,PSIM YOGYAKARTA,9,9,810,DEF,0,0,0,0,0,0,18,0,31,0,43,401,0,0,0,0,6,0,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/johannes_daniel_maria_van_der_avert,0
+PEDRO FILIPE TINOCO MONTEIRO,MADURA UNITED FC,9,9,810,DEF,0,0,2,0,0,0,16,2,53,0,42,398,0,3,0,0,9,2,0.0,0,https://ileague.id/clubs/singleplayer/BRI_SUPER_LEAGUE_2026-27/pedro_filipe_tinoco_monteiro,0
