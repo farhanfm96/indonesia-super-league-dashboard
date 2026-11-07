@@ -47,34 +47,34 @@
  ],
  "cards": [
   {
-   "side": "away",
-   "player": "ARKHAN FIKRI",
-   "minute": "28",
-   "minute_num": 28,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "AREMA FC"
-  },
-  {
-   "side": "home",
-   "player": "TAUFIK HIDAYAT",
-   "minute": "33",
-   "minute_num": 33,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "MADURA UNITED FC"
-  },
-  {
-   "side": "home",
    "player": "HUGO GOMES DOS SANTOS SILVA",
    "minute": "66",
    "minute_num": 66,
    "card": "yellow",
-   "source": "timeline",
-   "team": "MADURA UNITED FC"
+   "source": "header",
+   "team": "MADURA UNITED FC",
+   "side": "home"
+  },
+  {
+   "player": "TAUFIK HIDAYAT",
+   "minute": "33",
+   "minute_num": 33,
+   "card": "yellow",
+   "source": "header",
+   "team": "MADURA UNITED FC",
+   "side": "home"
+  },
+  {
+   "player": "ARKHAN FIKRI",
+   "minute": "27",
+   "minute_num": 27,
+   "card": "yellow",
+   "source": "header",
+   "team": "AREMA FC",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -679,9 +679,9 @@
  "team_stats": {
   "home": {
    "possession_pct": 49,
-   "shots_on_target": 11,
+   "shots_on_target": 12,
    "shots_total": 22,
-   "shot_accuracy_pct": 61,
+   "shot_accuracy_pct": 67,
    "passes_completed": 326,
    "passes_failed": 42,
    "corners": 8,
@@ -707,5 +707,5 @@
   }
  },
  "match_id": "MADURA_UNITED_FC-vs-AREMA_FC",
- "scraped_at": "2026-11-07T04:23:40+07:00"
+ "scraped_at": "2026-11-08T02:59:44+07:00"
 }

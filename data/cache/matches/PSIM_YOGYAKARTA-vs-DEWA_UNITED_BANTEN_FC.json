@@ -47,70 +47,70 @@
  ],
  "cards": [
   {
-   "side": "home",
+   "player": "D. S. SHEVA MARESCA AMAVISCA",
+   "minute": "90+8",
+   "minute_num": 98,
+   "card": "yellow",
+   "source": "header",
+   "team": "PSIM YOGYAKARTA",
+   "side": "home"
+  },
+  {
    "player": "FRANCO GASTON RAMOS MINGO",
    "minute": "6",
    "minute_num": 6,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSIM YOGYAKARTA"
+   "source": "header",
+   "team": "PSIM YOGYAKARTA",
+   "side": "home"
   },
   {
-   "side": "away",
-   "player": "DENILSON PEREIRA JUNIOR",
-   "minute": "12",
-   "minute_num": 12,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "DEWA UNITED BANTEN FC"
-  },
-  {
-   "side": "away",
-   "player": "RICKI KAMBUAYA",
-   "minute": "20",
-   "minute_num": 20,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "DEWA UNITED BANTEN FC"
-  },
-  {
-   "side": "home",
    "player": "MUHAMMAD IQBAL",
    "minute": "56",
    "minute_num": 56,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSIM YOGYAKARTA"
+   "source": "header",
+   "team": "PSIM YOGYAKARTA",
+   "side": "home"
   },
   {
-   "side": "home",
    "player": "NORBERTO EZEQUIEL VIDAL",
    "minute": "68",
    "minute_num": 68,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSIM YOGYAKARTA"
+   "source": "header",
+   "team": "PSIM YOGYAKARTA",
+   "side": "home"
   },
   {
-   "side": "away",
+   "player": "DENILSON PEREIRA JUNIOR",
+   "minute": "12",
+   "minute_num": 12,
+   "card": "yellow",
+   "source": "header",
+   "team": "DEWA UNITED BANTEN FC",
+   "side": "away"
+  },
+  {
    "player": "MOH. EDO FEBRIANSAH",
    "minute": "77",
    "minute_num": 77,
    "card": "yellow",
-   "source": "timeline",
-   "team": "DEWA UNITED BANTEN FC"
+   "source": "header",
+   "team": "DEWA UNITED BANTEN FC",
+   "side": "away"
   },
   {
-   "side": "home",
-   "player": "D. S. SHEVA MARESCA AMAVISCA",
-   "minute": "99",
-   "minute_num": 99,
+   "player": "RICKI KAMBUAYA",
+   "minute": "20",
+   "minute_num": 20,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSIM YOGYAKARTA"
+   "source": "header",
+   "team": "DEWA UNITED BANTEN FC",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -717,5 +717,5 @@
   }
  },
  "match_id": "PSIM_YOGYAKARTA-vs-DEWA_UNITED_BANTEN_FC",
- "scraped_at": "2026-11-07T04:23:39+07:00"
+ "scraped_at": "2026-11-08T02:59:43+07:00"
 }
