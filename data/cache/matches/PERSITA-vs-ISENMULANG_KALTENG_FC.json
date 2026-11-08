@@ -642,7 +642,7 @@
   "home": {
    "possession_pct": 67,
    "shots_on_target": 7,
-   "shots_total": 20,
+   "shots_total": 21,
    "shot_accuracy_pct": 50,
    "passes_completed": 465,
    "passes_failed": 81,
@@ -669,5 +669,5 @@
   }
  },
  "match_id": "PERSITA-vs-ISENMULANG_KALTENG_FC",
- "scraped_at": "2026-11-08T02:59:46+07:00"
+ "scraped_at": "2026-11-09T03:17:04+07:00"
 }

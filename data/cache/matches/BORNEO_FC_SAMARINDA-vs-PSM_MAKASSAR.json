@@ -103,7 +103,7 @@
   }
  ],
  "cards_source": "header",
- "cards_consistent": false,
+ "cards_consistent": true,
  "appearances": [
   {
    "player": "ALDO GERALDO MANUEL MONTEIRO",
@@ -716,7 +716,7 @@
    "tackles_won": 12,
    "offsides": 4,
    "fouls": 16,
-   "yellow_cards": 3,
+   "yellow_cards": 4,
    "red_cards": 0
   },
   "away": {
@@ -735,5 +735,5 @@
   }
  },
  "match_id": "BORNEO_FC_SAMARINDA-vs-PSM_MAKASSAR",
- "scraped_at": "2026-11-08T02:59:45+07:00"
+ "scraped_at": "2026-11-09T03:17:01+07:00"
 }
