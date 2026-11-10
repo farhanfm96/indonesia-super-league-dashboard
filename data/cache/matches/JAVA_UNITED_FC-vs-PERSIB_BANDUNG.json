@@ -58,8 +58,8 @@
   {
    "side": "home",
    "player": "RIYAN ARDIANSYAH",
-   "minute": "62",
-   "minute_num": 62,
+   "minute": "61",
+   "minute_num": 61,
    "card": "yellow",
    "source": "timeline",
    "team": "JAVA UNITED FC"
@@ -67,8 +67,8 @@
   {
    "side": "home",
    "player": "GUSTAVO MORENO DE FRANCA",
-   "minute": "86",
-   "minute_num": 86,
+   "minute": "85",
+   "minute_num": 85,
    "card": "yellow",
    "source": "timeline",
    "team": "JAVA UNITED FC"
@@ -707,5 +707,5 @@
   }
  },
  "match_id": "JAVA_UNITED_FC-vs-PERSIB_BANDUNG",
- "scraped_at": "2026-11-09T03:17:11+07:00"
+ "scraped_at": "2026-11-10T07:00:46+07:00"
 }

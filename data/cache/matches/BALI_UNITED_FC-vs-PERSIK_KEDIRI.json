@@ -56,10 +56,19 @@
    "team": "PERSIK KEDIRI"
   },
   {
+   "side": "away",
+   "player": "JUNHEONG PARK",
+   "minute": "32",
+   "minute_num": 32,
+   "card": "yellow",
+   "source": "timeline",
+   "team": "PERSIK KEDIRI"
+  },
+  {
    "side": "home",
    "player": "TIM HENRI VICTOR GEYPENS",
-   "minute": "40",
-   "minute_num": 40,
+   "minute": "39",
+   "minute_num": 39,
    "card": "yellow",
    "source": "timeline",
    "team": "BALI UNITED FC"
@@ -67,8 +76,8 @@
   {
    "side": "away",
    "player": "JON MIQUEL TORAL HARPER",
-   "minute": "57",
-   "minute_num": 57,
+   "minute": "56",
+   "minute_num": 56,
    "card": "yellow",
    "source": "timeline",
    "team": "PERSIK KEDIRI"
@@ -76,8 +85,8 @@
   {
    "side": "home",
    "player": "JAY JOSHUA HERDMAN",
-   "minute": "88",
-   "minute_num": 88,
+   "minute": "87",
+   "minute_num": 87,
    "card": "yellow",
    "source": "timeline",
    "team": "BALI UNITED FC"
@@ -93,7 +102,7 @@
   }
  ],
  "cards_source": "timeline",
- "cards_consistent": true,
+ "cards_consistent": false,
  "appearances": [
   {
    "player": "MIKE HAUPTMEIJER",
@@ -707,10 +716,10 @@
    "tackles_won": 19,
    "offsides": 2,
    "fouls": 16,
-   "yellow_cards": 2,
+   "yellow_cards": 4,
    "red_cards": 1
   }
  },
  "match_id": "BALI_UNITED_FC-vs-PERSIK_KEDIRI",
- "scraped_at": "2026-11-09T03:17:10+07:00"
+ "scraped_at": "2026-11-10T07:00:45+07:00"
 }
