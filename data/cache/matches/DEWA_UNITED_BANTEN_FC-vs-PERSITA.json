@@ -31,44 +31,35 @@
  ],
  "cards": [
   {
-   "side": "home",
    "player": "NICK ANNA MARIA FRANCOIS KUIPERS",
-   "minute": "47",
-   "minute_num": 47,
+   "minute": "46",
+   "minute_num": 46,
    "card": "yellow",
-   "source": "timeline",
-   "team": "DEWA UNITED BANTEN FC"
+   "source": "header",
+   "team": "DEWA UNITED BANTEN FC",
+   "side": "home"
   },
   {
-   "side": "home",
    "player": "NOAH WAIL SADAOUI",
-   "minute": "73",
-   "minute_num": 73,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "DEWA UNITED BANTEN FC"
-  },
-  {
-   "side": "home",
-   "player": "NOAH WAIL SADAOUI",
-   "minute": "75",
-   "minute_num": 75,
+   "minute": "74",
+   "minute_num": 74,
    "card": "red",
-   "source": "timeline",
-   "team": "DEWA UNITED BANTEN FC"
+   "source": "header",
+   "team": "DEWA UNITED BANTEN FC",
+   "side": "home"
   },
   {
-   "side": "away",
    "player": "EBER HENRIQUE FERREIRA DE BESSA",
    "minute": "89",
    "minute_num": 89,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PERSITA"
+   "source": "header",
+   "team": "PERSITA",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
- "cards_consistent": false,
+ "cards_source": "header",
+ "cards_consistent": true,
  "appearances": [
   {
    "player": "SONNY RICARDO MARCIANO STEVENS",
@@ -687,5 +678,5 @@
   }
  },
  "match_id": "DEWA_UNITED_BANTEN_FC-vs-PERSITA",
- "scraped_at": "2026-11-21T05:32:34+07:00"
+ "scraped_at": "2026-11-22T04:30:27+07:00"
 }

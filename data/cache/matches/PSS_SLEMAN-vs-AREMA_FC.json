@@ -47,25 +47,25 @@
  ],
  "cards": [
   {
-   "side": "home",
    "player": "MOUSSA BAGAYOKO",
    "minute": "19",
    "minute_num": 19,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSS SLEMAN"
+   "source": "header",
+   "team": "PSS SLEMAN",
+   "side": "home"
   },
   {
-   "side": "away",
    "player": "OLUWASEGUN SAMUEL OTUSANYA",
    "minute": "69",
    "minute_num": 69,
    "card": "yellow",
-   "source": "timeline",
-   "team": "AREMA FC"
+   "source": "header",
+   "team": "AREMA FC",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -687,8 +687,8 @@
    "shots_on_target": 7,
    "shots_total": 18,
    "shot_accuracy_pct": 47,
-   "passes_completed": 214,
-   "passes_failed": 55,
+   "passes_completed": 213,
+   "passes_failed": 54,
    "corners": 8,
    "tackles_won": 30,
    "offsides": 2,
@@ -698,5 +698,5 @@
   }
  },
  "match_id": "PSS_SLEMAN-vs-AREMA_FC",
- "scraped_at": "2026-11-21T05:32:33+07:00"
+ "scraped_at": "2026-11-22T04:30:25+07:00"
 }

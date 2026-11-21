@@ -31,43 +31,43 @@
  ],
  "cards": [
   {
-   "side": "away",
-   "player": "GIOVANI JORIM HERZON DACOSTA NUMBERI",
-   "minute": "18",
-   "minute_num": 18,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "MADURA UNITED FC"
-  },
-  {
-   "side": "home",
-   "player": "PAULO RICARDO FERREIRA",
-   "minute": "43",
-   "minute_num": 43,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "GARUDAYAKSA FC"
-  },
-  {
-   "side": "away",
-   "player": "DEDE SAPARI",
-   "minute": "77",
-   "minute_num": 77,
-   "card": "yellow",
-   "source": "timeline",
-   "team": "MADURA UNITED FC"
-  },
-  {
-   "side": "home",
    "player": "DOMINIK HOLEC",
    "minute": "90",
    "minute_num": 90,
    "card": "yellow",
-   "source": "timeline",
-   "team": "GARUDAYAKSA FC"
+   "source": "header",
+   "team": "GARUDAYAKSA FC",
+   "side": "home"
+  },
+  {
+   "player": "PAULO RICARDO FERREIRA",
+   "minute": "43",
+   "minute_num": 43,
+   "card": "yellow",
+   "source": "header",
+   "team": "GARUDAYAKSA FC",
+   "side": "home"
+  },
+  {
+   "player": "DEDE SAPARI",
+   "minute": "77",
+   "minute_num": 77,
+   "card": "yellow",
+   "source": "header",
+   "team": "MADURA UNITED FC",
+   "side": "away"
+  },
+  {
+   "player": "GIOVANI JORIM HERZON DACOSTA NUMBERI",
+   "minute": "18",
+   "minute_num": 18,
+   "card": "yellow",
+   "source": "header",
+   "team": "MADURA UNITED FC",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -675,7 +675,7 @@
    "possession_pct": 55,
    "shots_on_target": 4,
    "shots_total": 15,
-   "shot_accuracy_pct": 40,
+   "shot_accuracy_pct": 44,
    "passes_completed": 358,
    "passes_failed": 58,
    "corners": 9,
@@ -687,5 +687,5 @@
   }
  },
  "match_id": "GARUDAYAKSA_FC-vs-MADURA_UNITED_FC",
- "scraped_at": "2026-11-21T05:32:32+07:00"
+ "scraped_at": "2026-11-22T04:30:23+07:00"
 }
