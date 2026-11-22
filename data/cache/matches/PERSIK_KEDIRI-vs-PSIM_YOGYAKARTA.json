@@ -55,34 +55,43 @@
  ],
  "cards": [
   {
-   "side": "away",
+   "player": "MARSELINUS AMA OLA",
+   "minute": "73",
+   "minute_num": 73,
+   "card": "yellow",
+   "source": "header",
+   "team": "PERSIK KEDIRI",
+   "side": "home"
+  },
+  {
    "player": "IRFAN",
-   "minute": "23",
-   "minute_num": 23,
+   "minute": "22",
+   "minute_num": 22,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSIM YOGYAKARTA"
+   "source": "header",
+   "team": "PSIM YOGYAKARTA",
+   "side": "away"
   },
   {
-   "side": "away",
    "player": "JOHANNES DANIEL MARIA VAN DER AVERT",
-   "minute": "26",
-   "minute_num": 26,
+   "minute": "25",
+   "minute_num": 25,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSIM YOGYAKARTA"
+   "source": "header",
+   "team": "PSIM YOGYAKARTA",
+   "side": "away"
   },
   {
-   "side": "away",
    "player": "NORBERTO EZEQUIEL VIDAL",
    "minute": "60",
    "minute_num": 60,
    "card": "yellow",
-   "source": "timeline",
-   "team": "PSIM YOGYAKARTA"
+   "source": "header",
+   "team": "PSIM YOGYAKARTA",
+   "side": "away"
   }
  ],
- "cards_source": "timeline",
+ "cards_source": "header",
  "cards_consistent": true,
  "appearances": [
   {
@@ -657,7 +666,7 @@
    "tackles_won": 10,
    "offsides": 3,
    "fouls": 12,
-   "yellow_cards": 0,
+   "yellow_cards": 1,
    "red_cards": 0
   },
   "away": {
@@ -676,5 +685,5 @@
   }
  },
  "match_id": "PERSIK_KEDIRI-vs-PSIM_YOGYAKARTA",
- "scraped_at": "2026-11-22T04:30:28+07:00"
+ "scraped_at": "2026-11-23T04:37:51+07:00"
 }
