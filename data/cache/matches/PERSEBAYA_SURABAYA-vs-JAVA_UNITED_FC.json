@@ -691,7 +691,7 @@
    "possession_pct": 47,
    "shots_on_target": 3,
    "shots_total": 11,
-   "shot_accuracy_pct": 38,
+   "shot_accuracy_pct": 27,
    "passes_completed": 344,
    "passes_failed": 71,
    "corners": 7,
@@ -705,7 +705,7 @@
    "possession_pct": 53,
    "shots_on_target": 4,
    "shots_total": 11,
-   "shot_accuracy_pct": 50,
+   "shot_accuracy_pct": 36,
    "passes_completed": 386,
    "passes_failed": 73,
    "corners": 4,
@@ -717,5 +717,5 @@
   }
  },
  "match_id": "PERSEBAYA_SURABAYA-vs-JAVA_UNITED_FC",
- "scraped_at": "2026-11-23T04:37:53+07:00"
+ "scraped_at": "2026-11-24T09:48:37+07:00"
 }

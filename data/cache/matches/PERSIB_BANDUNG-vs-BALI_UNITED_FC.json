@@ -704,7 +704,7 @@
    "possession_pct": 45,
    "shots_on_target": 5,
    "shots_total": 13,
-   "shot_accuracy_pct": 45,
+   "shot_accuracy_pct": 38,
    "passes_completed": 374,
    "passes_failed": 55,
    "corners": 1,
@@ -716,9 +716,9 @@
   },
   "away": {
    "possession_pct": 55,
-   "shots_on_target": 3,
+   "shots_on_target": 4,
    "shots_total": 15,
-   "shot_accuracy_pct": 38,
+   "shot_accuracy_pct": 27,
    "passes_completed": 453,
    "passes_failed": 67,
    "corners": 5,
@@ -730,5 +730,5 @@
   }
  },
  "match_id": "PERSIB_BANDUNG-vs-BALI_UNITED_FC",
- "scraped_at": "2026-11-23T04:37:56+07:00"
+ "scraped_at": "2026-11-24T09:48:42+07:00"
 }

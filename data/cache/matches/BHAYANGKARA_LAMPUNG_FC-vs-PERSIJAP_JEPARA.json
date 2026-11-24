@@ -626,7 +626,7 @@
    "possession_pct": 45,
    "shots_on_target": 7,
    "shots_total": 21,
-   "shot_accuracy_pct": 41,
+   "shot_accuracy_pct": 33,
    "passes_completed": 280,
    "passes_failed": 79,
    "corners": 4,
@@ -640,7 +640,7 @@
    "possession_pct": 55,
    "shots_on_target": 2,
    "shots_total": 10,
-   "shot_accuracy_pct": 29,
+   "shot_accuracy_pct": 20,
    "passes_completed": 341,
    "passes_failed": 70,
    "corners": 3,
@@ -652,5 +652,5 @@
   }
  },
  "match_id": "BHAYANGKARA_LAMPUNG_FC-vs-PERSIJAP_JEPARA",
- "scraped_at": "2026-11-23T04:37:54+07:00"
+ "scraped_at": "2026-11-24T09:48:40+07:00"
 }

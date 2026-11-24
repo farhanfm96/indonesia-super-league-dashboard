@@ -691,7 +691,7 @@
    "possession_pct": 27,
    "shots_on_target": 6,
    "shots_total": 12,
-   "shot_accuracy_pct": 55,
+   "shot_accuracy_pct": 50,
    "passes_completed": 148,
    "passes_failed": 79,
    "corners": 2,
@@ -705,7 +705,7 @@
    "possession_pct": 73,
    "shots_on_target": 7,
    "shots_total": 22,
-   "shot_accuracy_pct": 39,
+   "shot_accuracy_pct": 32,
    "passes_completed": 396,
    "passes_failed": 89,
    "corners": 10,
@@ -717,5 +717,5 @@
   }
  },
  "match_id": "PSM_MAKASSAR-vs-PERSIJA_JAKARTA",
- "scraped_at": "2026-11-23T04:37:53+07:00"
+ "scraped_at": "2026-11-24T09:48:38+07:00"
 }
