@@ -1,39 +1,5 @@
 match_id,matchweek,match_date,check,detail
-BORNEO_FC_SAMARINDA-vs-BALI_UNITED_FC,3.0,2026-09-20,cards_vs_team_stats,sumber=timeline
-PERSEBAYA_SURABAYA-vs-MADURA_UNITED_FC,7.0,2026-10-26,cards_vs_team_stats,sumber=timeline
-BALI_UNITED_FC-vs-PERSIK_KEDIRI,9.0,2026-11-08,cards_vs_team_stats,sumber=timeline
-PERSIB_BANDUNG-vs-BALI_UNITED_FC,10.0,2026-11-22,cards_vs_team_stats,sumber=timeline
-,,,player_goals_vs_official,DIMITAR GEORGIEV MITKOV (MADURA UNITED FC): 5 dari data laga vs 6 resmi
-,,,player_goals_vs_official,ALEXANDER THOMAS JEREMEJEFF (PERSIJA JAKARTA): 5 dari data laga vs 7 resmi
-,,,player_goals_vs_official,TEPPEI YACHIDA (BALI UNITED FC): 5 dari data laga vs 6 resmi
-,,,player_goals_vs_official,IRFAN JAYA (BALI UNITED FC): 4 dari data laga vs 5 resmi
-,,,player_goals_vs_official,IVAN MAMUT (PERSIJA JAKARTA): 2 dari data laga vs 3 resmi
-,,,player_goals_vs_official,MELVYN LORENZEN (PSS SLEMAN): 2 dari data laga vs 3 resmi
-,,,player_goals_vs_official,QUEVEN DA SILVA INACIO (BALI UNITED FC): 2 dari data laga vs 4 resmi
-,,,player_goals_vs_official,STJEPAN LONCAR (PERSIJA JAKARTA): 2 dari data laga vs 3 resmi
-,,,player_goals_vs_official,GUSTAVO ALMEIDA DOS SANTOS (JAVA UNITED FC): 2 dari data laga vs 3 resmi
-,,,player_goals_vs_official,YURAN FERNANDES ROCHA LOPES (PERSEBAYA SURABAYA): 1 dari data laga vs 2 resmi
-,,,player_goals_vs_official,AL HAMRA HEHANUSSA (GARUDAYAKSA FC): 1 dari data laga vs 2 resmi
-,,,player_goals_vs_official,GABRIEL SILVA COSTA (AREMA FC): 1 dari data laga vs 2 resmi
-,,,player_goals_vs_official,PEDRO AUGUSTO CABRAL CARVALHO (DEWA UNITED BANTEN FC): 0 dari data laga vs 1 resmi
-,,,player_goals_vs_official,VICTOR JONSON BENJAMIN DETHAN (PERSIJA JAKARTA): 0 dari data laga vs 1 resmi
-,,,player_goals_vs_official,NICK ANNA MARIA FRANCOIS KUIPERS (DEWA UNITED BANTEN FC): 0 dari data laga vs 1 resmi
-,,,player_goals_vs_official,KENJI MANANGAN NISHIOKA (ISENMULANG KALTENG FC): 0 dari data laga vs 1 resmi
-,,,player_goals_vs_official,ERNESTO GOMEZ MUÑOZ (PERSIK KEDIRI): 0 dari data laga vs 2 resmi
-,,,player_goals_vs_official,MOUSSA SIDIBE (BHAYANGKARA LAMPUNG FC): 0 dari data laga vs 1 resmi
-,,,standings_vs_official,PERSIB BANDUNG: 19 poin/9 main vs resmi 19/10
-,,,standings_vs_official,PERSIJA JAKARTA: 19 poin/9 main vs resmi 22/10
-,,,standings_vs_official,DEWA UNITED BANTEN FC: 17 poin/9 main vs resmi 20/10
-,,,standings_vs_official,BALI UNITED FC: 16 poin/9 main vs resmi 19/10
-,,,standings_vs_official,MADURA UNITED FC: 16 poin/9 main vs resmi 19/10
-,,,standings_vs_official,PERSEBAYA SURABAYA: 14 poin/9 main vs resmi 14/10
-,,,standings_vs_official,GARUDAYAKSA FC: 14 poin/9 main vs resmi 14/10
-,,,standings_vs_official,JAVA UNITED FC: 13 poin/9 main vs resmi 14/10
-,,,standings_vs_official,AREMA FC: 12 poin/9 main vs resmi 12/10
-,,,standings_vs_official,BHAYANGKARA LAMPUNG FC: 12 poin/9 main vs resmi 15/10
-,,,standings_vs_official,PSM MAKASSAR: 8 poin/9 main vs resmi 11/10
-,,,standings_vs_official,PERSIK KEDIRI: 8 poin/9 main vs resmi 11/10
-,,,standings_vs_official,PSIM YOGYAKARTA: 6 poin/9 main vs resmi 6/10
-,,,standings_vs_official,ISENMULANG KALTENG FC: 6 poin/9 main vs resmi 7/10
-,,,standings_vs_official,PSS SLEMAN: 5 poin/9 main vs resmi 5/10
-,,,standings_vs_official,PERSIJAP JEPARA: 2 poin/9 main vs resmi 2/10
+BORNEO_FC_SAMARINDA-vs-BALI_UNITED_FC,3,2026-09-20,cards_vs_team_stats,sumber=timeline
+PERSEBAYA_SURABAYA-vs-MADURA_UNITED_FC,7,2026-10-26,cards_vs_team_stats,sumber=timeline
+BALI_UNITED_FC-vs-PERSIK_KEDIRI,9,2026-11-08,cards_vs_team_stats,sumber=timeline
+PERSIB_BANDUNG-vs-BALI_UNITED_FC,10,2026-11-22,cards_vs_team_stats,sumber=timeline
