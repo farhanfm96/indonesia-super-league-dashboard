@@ -91,7 +91,7 @@
   }
  ],
  "cards_source": "timeline",
- "cards_consistent": true,
+ "cards_consistent": false,
  "appearances": [
   {
    "player": "ALDO GERALDO MANUEL MONTEIRO",
@@ -704,7 +704,7 @@
    "tackles_won": 22,
    "offsides": 1,
    "fouls": 11,
-   "yellow_cards": 2,
+   "yellow_cards": 3,
    "red_cards": 0
   },
   "away": {
@@ -712,7 +712,7 @@
    "shots_on_target": 4,
    "shots_total": 8,
    "shot_accuracy_pct": 50,
-   "passes_completed": 256,
+   "passes_completed": 262,
    "passes_failed": 79,
    "corners": 5,
    "tackles_won": 23,
@@ -723,5 +723,5 @@
   }
  },
  "match_id": "BORNEO_FC_SAMARINDA-vs-PERSITA",
- "scraped_at": "2026-11-27T07:24:11+07:00"
+ "scraped_at": "2026-11-28T06:57:14+07:00"
 }
